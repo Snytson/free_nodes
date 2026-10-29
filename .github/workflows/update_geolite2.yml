@@ -1,0 +1,67 @@
+name: Update GeoLite2 Country database
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 4 * * 2,5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: geolite2-refresh
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          fetch-depth: 0
+
+      - name: Download latest GeoLite2 Country MMDB
+        run: |
+          set -euo pipefail
+
+          mkdir -p data
+
+          rm -f data/GeoLite2-Country.mmdb
+
+          curl \
+            --fail \
+            --location \
+            --silent \
+            --show-error \
+            'https://cdn.jsdelivr.net/npm/geolite2-country/GeoLite2-Country.mmdb.gz' \
+            --output /tmp/GeoLite2-Country.mmdb.gz
+
+          gzip -dc \
+            /tmp/GeoLite2-Country.mmdb.gz \
+            > data/GeoLite2-Country.mmdb
+
+          test -s data/GeoLite2-Country.mmdb
+
+          ls -lh data/GeoLite2-Country.mmdb
+
+      - name: Record provenance
+        run: |
+          cat > data/GEOLITE2_SOURCE.md <<'EOF'
+          # GeoLite2 Country database
+
+          Local MMDB used by the catalog's offline country classifier.
+
+          Source distribution: https://github.com/wp-statistics/GeoLite2-Country
+          CDN: https://cdn.jsdelivr.net/npm/geolite2-country/GeoLite2-Country.mmdb.gz
+
+          The distribution states that this is a GeoLite2 Country database derived from
+          MaxMind data. Review the current MaxMind GeoLite2 license/EULA and the
+          distributor's terms before redistribution.
+          EOF
+
+      - name: Publish latest GeoLite2 snapshot
+        env:
+          CATALOG_BRANCH: ${{ github.event.repository.default_branch }}
+        run: python3 scripts/publish_snapshot.py geo

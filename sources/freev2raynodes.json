@@ -1,0 +1,18 @@
+{
+  "name": "freev2raynodes",
+  "type": "dynamic_subscription",
+  "enabled": true,
+  "auto_update": true,
+  "base_url": "https://freev2raynodes.github.io",
+  "resolver": "date_probe",
+  "formats": ["txt", "yaml", "json"],
+  "paths": [
+    "uploads/{YYYY}/{MM}/{index}-{YYYYMMDD}.txt",
+    "uploads/{YYYY}/{MM}/{index}-{YYYYMMDD}.yaml",
+    "uploads/{YYYY}/{MM}/{YYYYMMDD}.json"
+  ],
+  "indexes": [0,1,2,3,4],
+  "fallback_days": 14,
+  "deduplicate": true,
+  "validation_required": true
+}

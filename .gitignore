@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+runtime/
+
+# Runtime-only catalog intermediates (never published).
+output/metadata/sources_candidates.json
+output/metadata/telegram_candidates.json
+output/metadata/v2nodes_candidates.json
+output/metadata/singbox_candidates.json
+
+# Removed legacy/experimental outputs; keep them from being re-added accidentally.
+# output/country_shards/ is intentionally tracked for on-demand Android paging.
+output/active/
+output/backup/
+.github/push-trigger-test.txt

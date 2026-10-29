@@ -1,0 +1,271 @@
+name: Update node catalog
+
+on:
+  workflow_dispatch:
+    inputs:
+      publish_run_id:
+        description: 'Publish saved results from this completed run ID; leave empty for a new scan'
+        type: string
+        default: ''
+  schedule:
+    # Every 8 hours (UTC 00:00, 08:00, 16:00 = Beijing 08:00, 16:00, 00:00).
+    - cron: '0 0,8,16 * * *'
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: catalog-refresh-${{ github.ref }}
+  cancel-in-progress: false
+
+env:
+  SINGBOX_VERSION: '1.14.4'
+  SINGBOX_ARCHIVE_SHA256: '699a1b510aa4396b2176d32d1181920399ebf1e267835da6f3b598d0f7c24968'
+
+jobs:
+  prepare:
+    if: ${{ !inputs.publish_run_id }}
+    name: Collect candidates and pin sing-box
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Install pinned sing-box
+        run: |
+          set -euo pipefail
+          archive="$RUNNER_TEMP/sing-box.tar.gz"
+          curl --fail --location --silent --show-error \
+            "https://github.com/SagerNet/sing-box/releases/download/v${SINGBOX_VERSION}/sing-box-${SINGBOX_VERSION}-linux-amd64.tar.gz" \
+            --output "$archive"
+          echo "${SINGBOX_ARCHIVE_SHA256}  ${archive}" | sha256sum --check --status
+          mkdir -p "$RUNNER_TEMP/runtime"
+          tar -xzf "$archive" -C "$RUNNER_TEMP/runtime" --strip-components=1
+          "$RUNNER_TEMP/runtime/sing-box" version
+          python scripts/singbox_pipeline/write_core_manifest.py \
+            --binary "$RUNNER_TEMP/runtime/sing-box" \
+            --output "$RUNNER_TEMP/runtime/singbox-core.json"
+
+      - name: Run collector and sing-box tests
+        env:
+          SINGBOX_BINARY: ${{ runner.temp }}/runtime/sing-box
+        run: |
+          set -euo pipefail
+          python tests/test_country_resolver.py
+          python tests/test_source_freshness.py
+          python tests/test_source_pipeline.py
+          python tests/test_share_link_extractor.py
+          python tests/test_gitverse_adapter.py
+          python tests/test_kort0881_adapter.py
+          python tests/test_share_daily_adapter.py
+          python tests/test_freeproxydb_adapter.py
+          python tests/test_outlinekeys_adapter.py
+          python tests/test_publish_snapshot.py
+          python -m unittest -v tests.test_singbox_pipeline
+
+      - name: Collect sources and pin the candidate snapshot
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          V2NODES_WORKERS: 80
+          V2NODES_RETRY_WORKERS: 20
+          V2NODES_TIMEOUT: 25
+          V2NODES_RETRY_TIMEOUT: 30
+        run: |
+          set -euo pipefail
+          python scripts/singbox_pipeline/collect.py \
+            --output "$RUNNER_TEMP/candidates/singbox_candidates.json" \
+            --freshness "$RUNNER_TEMP/freshness/source_freshness.json" \
+            --binary "$RUNNER_TEMP/runtime/sing-box" \
+            --core-manifest "$RUNNER_TEMP/runtime/singbox-core.json"
+          test -s "$RUNNER_TEMP/candidates/singbox_candidates.json"
+
+      - name: Upload immutable candidate snapshot
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: singbox-candidates
+          retention-days: 7
+          if-no-files-found: error
+          path: ${{ runner.temp }}/candidates/
+
+      - name: Upload the pinned runtime used for the snapshot
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: singbox-runtime
+          retention-days: 7
+          if-no-files-found: error
+          path: ${{ runner.temp }}/runtime/
+
+  probe:
+    if: ${{ !inputs.publish_run_id }}
+    name: Probe shard (${{ matrix.shard }})
+    needs: [prepare]
+    runs-on: ubuntu-24.04
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      max-parallel: 8
+      matrix:
+        shard: [0, 1, 2, 3, 4, 5, 6, 7]
+
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Download the candidate snapshot
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: singbox-candidates
+          path: ${{ runner.temp }}/candidates
+
+      - name: Download the pinned runtime
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          name: singbox-runtime
+          path: ${{ runner.temp }}/runtime
+
+      - name: Probe this shard through sing-box
+        run: |
+          set -euo pipefail
+          chmod +x "$RUNNER_TEMP/runtime/sing-box"
+          python scripts/singbox_pipeline/run_shard.py \
+            --candidates "$RUNNER_TEMP/candidates/singbox_candidates.json" \
+            --binary "$RUNNER_TEMP/runtime/sing-box" \
+            --core-manifest "$RUNNER_TEMP/runtime/singbox-core.json" \
+            --output "$RUNNER_TEMP/results/shard-${{ matrix.shard }}" \
+            --shard "${{ matrix.shard }}" \
+            --shards 8 \
+            --workers 32 \
+            --timeout 22 \
+            --measure-speed \
+            --workdir "$RUNNER_TEMP/work"
+
+      - name: Publish shard summary
+        if: ${{ always() }}
+        run: |
+          report="$RUNNER_TEMP/results/shard-${{ matrix.shard }}/summary.json"
+          if [ -f "$report" ]; then
+            echo '### sing-box shard ${{ matrix.shard }}' >> "$GITHUB_STEP_SUMMARY"
+            echo '```json' >> "$GITHUB_STEP_SUMMARY"
+            cat "$report" >> "$GITHUB_STEP_SUMMARY"
+            echo '```' >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload shard observations
+        if: ${{ always() }}
+        uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        with:
+          name: singbox-shard-${{ matrix.shard }}
+          retention-days: 7
+          if-no-files-found: error
+          path: ${{ runner.temp }}/results/shard-${{ matrix.shard }}/
+
+  publish:
+    name: Publish verified catalog
+    needs: [prepare, probe]
+    if: ${{ always() && !cancelled() && (inputs.publish_run_id || (needs.prepare.result == 'success' && needs.probe.result == 'success')) }}
+    runs-on: ubuntu-24.04
+    timeout-minutes: 45
+
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - run: pip install -r requirements.txt
+
+      - name: Validate publication-only recovery source
+        if: ${{ inputs.publish_run_id }}
+        env:
+          CATALOG_BRANCH: ${{ github.event.repository.default_branch }}
+          CATALOG_SOURCE_RUN_ID: ${{ inputs.publish_run_id }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/validate_catalog_resume.py
+
+      - name: Download the candidate snapshot
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ inputs.publish_run_id || github.run_id }}
+          name: singbox-candidates
+          path: ${{ runner.temp }}/candidates
+
+      - name: Download all eight shard results
+        uses: actions/download-artifact@d3f86a106a0bac45b974a628896c90dbdf5c8093 # v4
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          run-id: ${{ inputs.publish_run_id || github.run_id }}
+          pattern: singbox-shard-*
+          path: ${{ runner.temp }}/results
+
+      - name: Prepare GeoLite2 database for XX-only fallback
+        run: |
+          set -euo pipefail
+          mkdir -p data
+
+          if [ ! -s data/GeoLite2-Country.mmdb ]; then
+            curl --fail --location --silent --show-error \
+              'https://cdn.jsdelivr.net/npm/geolite2-country/GeoLite2-Country.mmdb.gz' \
+              --output /tmp/GeoLite2-Country.mmdb.gz
+
+            gzip -dc /tmp/GeoLite2-Country.mmdb.gz \
+              > data/GeoLite2-Country.mmdb
+          fi
+
+          test -s data/GeoLite2-Country.mmdb
+
+      - name: Build the sing-box verified catalog
+        run: |
+          set -euo pipefail
+          python scripts/singbox_pipeline/finalize.py \
+            --candidates "$RUNNER_TEMP/candidates/singbox_candidates.json" \
+            --results-root "$RUNNER_TEMP/results" \
+            --output-root output \
+            --shards 8
+
+          test -s output/metadata/index.json
+          test -s output/metadata/app_pool.json
+          test -s output/metadata/countries.json
+          test -s output/metadata/node_speeds.json
+
+      - name: Build and sign catalog manifest
+        env:
+          CATALOG_SIGNING_PRIVATE_KEY_B64: ${{ secrets.CATALOG_SIGNING_PRIVATE_KEY_B64 }}
+          REQUIRE_CATALOG_SIGNATURE: '1'
+        run: |
+          set -euo pipefail
+          python scripts/sign_catalog.py
+          test -s output/metadata/catalog_manifest.json
+          test -s output/metadata/catalog_manifest.sig
+
+      - name: Restore previous catalog on failure
+        if: failure()
+        run: |
+          git checkout HEAD -- output/ || true
+
+      - name: Publish latest catalog snapshot
+        if: success()
+        env:
+          CATALOG_BRANCH: ${{ github.event.repository.default_branch }}
+        run: python scripts/publish_snapshot.py catalog
