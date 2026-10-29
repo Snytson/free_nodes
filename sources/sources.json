@@ -1206,6 +1206,97 @@
     {
       "name": "Use4Free-V2Collector-merged",
       "url": "https://raw.githubusercontent.com/Use4Free/V2Collector/refs/heads/master/hub/merged.txt"
+    },
+    {
+      "name": "gh-shaoyouvip-free-all",
+      "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/all.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-aishervin-V2flair-clean-sub",
+      "url": "https://raw.githubusercontent.com/aishervin/V2flair/main/clean_sub.txt"
+    },
+    {
+      "name": "gh-CB-X2-Jun-Free-v2ray-node-nodes",
+      "url": "https://raw.githubusercontent.com/CB-X2-Jun/Free-v2ray-node/main/public/data/nodes.json"
+    },
+    {
+      "name": "gh-mirrorrepomagic-free-v2ray-public-list-ss-configs",
+      "url": "https://raw.githubusercontent.com/mirrorrepomagic/free-v2ray-public-list/main/ss_configs.txt"
+    },
+    {
+      "name": "gh-Shayanthn-V2ray-Tester-Pro-subscription",
+      "url": "https://raw.githubusercontent.com/Shayanthn/V2ray-Tester-Pro/main/subscriptions/subscription.txt"
+    },
+    {
+      "name": "gh-iboxz-free-v2ray-collector-trojan",
+      "url": "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/trojan.txt"
+    },
+    {
+      "name": "gh-iboxz-free-v2ray-collector-vless",
+      "url": "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vless.txt"
+    },
+    {
+      "name": "gh-iboxz-free-v2ray-collector-vmess",
+      "url": "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/vmess.txt"
+    },
+    {
+      "name": "gh-iboxz-free-v2ray-collector-shadowsocks",
+      "url": "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/shadowsocks.txt"
+    },
+    {
+      "name": "gh-cbusifabcap-daily-free-vpn-Clash",
+      "url": "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/sub/Clash.yml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-cbusifabcap-daily-free-vpn-ClashMeta",
+      "url": "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/sub/ClashMeta.yml"
+    },
+    {
+      "name": "gh-cbusifabcap-daily-free-vpn-ShadowRocket",
+      "url": "https://raw.githubusercontent.com/cbusifabcap/daily_free_vpn/main/sub/ShadowRocket.yml"
+    },
+    {
+      "name": "gh-V2RayRoot-V2RayConfig-HamrahAval",
+      "url": "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/main/Config/HamrahAval.txt"
+    },
+    {
+      "name": "gh-hello-world-1989-cn-news-clash",
+      "url": "https://raw.githubusercontent.com/hello-world-1989/cn-news/main/clash.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-hello-world-1989-cn-news-clash-free",
+      "url": "https://raw.githubusercontent.com/hello-world-1989/cn-news/main/clash-free.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-hello-world-1989-cn-news-clash-test",
+      "url": "https://raw.githubusercontent.com/hello-world-1989/cn-news/main/clash-test.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-6badifar9-ali101-v2ray-bot-configs",
+      "url": "https://raw.githubusercontent.com/6badifar9/ali101-v2ray-bot/main/configs.txt"
+    },
+    {
+      "name": "gh-0xRadikal-Free-v2ray-Configs-clash",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/clash.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-0xRadikal-Free-v2ray-Configs-clash-2",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/light/clash.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-0xRadikal-Free-v2ray-Configs-trojan",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/trojan.txt"
+    },
+    {
+      "name": "gh-0xRadikal-Free-v2ray-Configs-vless",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/vless.txt"
     }
   ]
 }

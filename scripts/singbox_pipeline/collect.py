@@ -26,6 +26,7 @@ if str(SCRIPTS) not in sys.path:
 import build_sources_candidates as specials  # noqa: E402
 import build_telegram_candidates as telegram  # noqa: E402
 import source_freshness  # noqa: E402
+import source_health  # noqa: E402
 import update_catalog as catalog  # noqa: E402
 import v2nodes_adapter  # noqa: E402
 from singbox_pipeline import core  # noqa: E402
@@ -35,6 +36,7 @@ SOURCES = ROOT / "sources" / "sources.json"
 TELEGRAM = ROOT / "sources" / "telegram_channels.json"
 OUT = ROOT / "output" / "metadata" / "singbox_candidates.json"
 FRESHNESS = ROOT / "output" / "metadata" / "source_freshness.json"
+HEALTH = ROOT / "output" / "metadata" / "source_health.json"
 CACHE_DIR = ROOT / "output" / "metadata"
 DEFAULT_PORTS = {443}
 SPECIAL_FORMATS = {"telegram_catalog", "telegram_html", "v2nodes"}
@@ -127,12 +129,28 @@ def collect_all(
     skip_telegram: bool = False,
     skip_v2nodes: bool = False,
     v2nodes_max_pages: int = 5000,
-) -> tuple[list[dict], list[dict]]:
+) -> tuple[list[dict], list[dict], dict[str, str]]:
     cfg = json.loads(sources_path.read_text(encoding="utf-8"))
     rows: list[dict] = []
     health: list[dict] = []
+    urls: dict[str, str] = {}
     for item in cfg.get("sources", []):
+        name = str(item.get("name") or "")
+        if name and item.get("url"):
+            urls[name] = str(item["url"])
         if item.get("format") in SPECIAL_FORMATS:
+            continue
+        if item.get("disabled"):
+            # A source without a verified node for five days is flagged in
+            # sources/sources.json; the ledger keeps the verdict, so skip it here.
+            health.append({
+                "name": name,
+                "ok": False,
+                "nodes": 0,
+                "skipped": "disabled",
+                "elapsed_ms": 0.0,
+            })
+            print(f"SKIP source {name}: disabled")
             continue
         started = time.perf_counter()
         try:
@@ -170,7 +188,7 @@ def collect_all(
         v2_rows, v2_health = collect_v2nodes(v2nodes_max_pages)
         rows.extend(v2_rows)
         health.extend(v2_health)
-    return rows, health
+    return rows, health, urls
 
 
 def normalize_rows(
@@ -238,6 +256,7 @@ def main() -> int:
     parser.add_argument("--allow-any-port", action="store_true")
     parser.add_argument("--skip-freshness", action="store_true")
     parser.add_argument("--freshness", type=Path, default=FRESHNESS)
+    parser.add_argument("--health-ledger", type=Path, default=HEALTH)
     parser.add_argument("--skip-specials", action="store_true")
     parser.add_argument("--skip-telegram", action="store_true")
     parser.add_argument("--skip-v2nodes", action="store_true")
@@ -255,7 +274,7 @@ def main() -> int:
         manifest = core.read_manifest(args.binary)
 
     started = time.perf_counter()
-    rows, health = collect_all(
+    rows, health, urls = collect_all(
         args.sources,
         skip_specials=args.skip_specials,
         skip_telegram=args.skip_telegram,
@@ -269,6 +288,8 @@ def main() -> int:
         rows, health, freshness = source_freshness.apply_source_freshness(rows, health, args.freshness)
     else:
         freshness = {}
+    ledger = source_health.load_ledger(args.health_ledger)
+    source_health.record_collection(ledger, health, rows, source_health.utc_now(), urls=urls)
     nodes, failures, summary = normalize_rows(rows, allowed_ports)
     if not nodes:
         raise SystemExit("No candidate could be converted to a sing-box outbound")
@@ -286,6 +307,7 @@ def main() -> int:
         "conversion_failure_total": len(failures),
         "cache_files": cached_files,
         "source_freshness": {key: value for key, value in freshness.items() if key != "sources"},
+        "source_health": ledger,
         "sources": health,
         "nodes": nodes,
     }

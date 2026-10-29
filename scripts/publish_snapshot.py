@@ -14,7 +14,8 @@ from pathlib import Path
 MARKER = "[rolling-output]"
 BRANCH = os.environ.get("CATALOG_BRANCH", "main")
 PATHS = {"catalog": ("output",),
-         "geo": ("data/GeoLite2-Country.mmdb", "data/GEOLITE2_SOURCE.md")}
+         "geo": ("data/GeoLite2-Country.mmdb", "data/GEOLITE2_SOURCE.md"),
+         "sources": ("sources/sources.json",)}
 
 
 def git(repo: Path, *args: str, env=None, data=None, check=True):

@@ -25,6 +25,7 @@ if str(SCRIPTS) not in sys.path:
 
 import country_resolver  # noqa: E402
 import pycountry  # noqa: E402
+import source_health  # noqa: E402
 from singbox_pipeline import core  # noqa: E402
 from singbox_pipeline.runner import digest  # noqa: E402
 
@@ -209,6 +210,11 @@ def main() -> int:
     parser.add_argument("--shards", type=int, default=8)
     parser.add_argument("--source-freshness", type=Path)
     parser.add_argument("--cache-root", type=Path)
+    parser.add_argument("--source-stale-hours", type=float, default=source_health.STALE_HOURS)
+    parser.add_argument("--source-invalid-hours", type=float, default=source_health.INVALID_HOURS)
+    parser.add_argument("--source-prune-budget", type=int, default=source_health.PRUNE_BUDGET)
+    parser.add_argument("--source-disable-budget", type=int, default=source_health.DISABLE_BUDGET)
+    parser.add_argument("--source-keep-at-least", type=int, default=source_health.KEEP_AT_LEAST)
     args = parser.parse_args()
 
     candidates = read_json(args.candidates)
@@ -217,6 +223,15 @@ def main() -> int:
         raise SystemExit("Candidate pool is empty or invalid")
     candidates_digest = digest(args.candidates)
     rows, failures, accounting = load_shards(args.results_root, candidates, candidates_digest, args.shards)
+
+    # Verification is attributed before de-duplication: a source that produced a
+    # working node did its job even when another source published the same node.
+    source_names = {str(entry.get("name")) for entry in candidates.get("sources") or []
+                    if entry.get("name")}
+    verified_by_source = {name: 0 for name in source_names}
+    for row in rows:
+        name = source_health.canonical_source(str(row.get("source") or "UNKNOWN"), source_names)
+        verified_by_source[name] = verified_by_source.get(name, 0) + 1
 
     xx_rows = [row for row in rows if not ISO.fullmatch(str(row.get("country") or "").upper())]
     for row in rows:
@@ -254,6 +269,10 @@ def main() -> int:
 
     output = args.output_root
     metadata = output / "metadata"
+    # The source ledger is committed with the catalog, so it must be read before
+    # the output tree is rebuilt from this run.
+    ledger = source_health.load_ledger(metadata / "source_health.json")
+    ledger = source_health.merge_ledger(ledger, candidates.get("source_health"))
     freshness_payload = None
     if args.source_freshness and args.source_freshness.is_file():
         freshness_payload = read_json(args.source_freshness)
@@ -328,6 +347,28 @@ def main() -> int:
             encoding="utf-8",
         )
 
+    health_now = source_health.utc_now()
+    source_health.record_verification(ledger, verified_by_source, health_now)
+    decisions = source_health.decide(ledger, health_now,
+                                     stale_hours=args.source_stale_hours,
+                                     invalid_hours=args.source_invalid_hours,
+                                     prune_budget=args.source_prune_budget,
+                                     disable_budget=args.source_disable_budget,
+                                     keep_at_least=args.source_keep_at_least)
+    health_summary = source_health.write_ledger(metadata / "source_health.json", ledger, decisions,
+                                                health_now,
+                                                stale_hours=args.source_stale_hours,
+                                                invalid_hours=args.source_invalid_hours,
+                                                prune_budget=args.source_prune_budget,
+                                                disable_budget=args.source_disable_budget,
+                                                keep_at_least=args.source_keep_at_least)
+    print(f"OK source_health tracked={health_summary['counts']['tracked']} "
+          f"active={health_summary['counts']['active']} "
+          f"disabled={health_summary['counts']['disabled']} "
+          f"pruned={health_summary['counts']['pruned']} "
+          f"deferred={health_summary['counts']['deferred']} "
+          f"new_decisions={len(decisions)}")
+
     measured = sum(1 for row in rows if speed_value(row) > 0)
     unmeasured = len(rows) - measured
     speed_report = {
@@ -401,8 +442,15 @@ def main() -> int:
         "success_targets": dict(sorted(success_totals.items())),
         "geoip_xx_fallback": geoip_summary,
         "speed_ranking": speed_report["summary"],
-        "source_failures": sum(1 for row in candidates.get("sources") or [] if not row.get("ok")),
+        "source_failures": sum(1 for row in candidates.get("sources") or []
+                              if not row.get("ok") and not row.get("skipped")),
         "source_freshness": candidates.get("source_freshness") or {},
+        "source_health": {
+            "ledger": "output/metadata/source_health.json",
+            "counts": health_summary["counts"],
+            "policy": health_summary["policy"],
+            "decisions": decisions,
+        },
         "sources": candidates.get("sources") or [],
         "test_summary": test_summary,
     }
