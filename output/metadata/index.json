@@ -1,0 +1,370 @@
+{
+  "schema": 11,
+  "generated_at": "2026-10-31T05:55:42Z",
+  "tcp_reachable_total": 120378,
+  "xray_included": 3409,
+  "config_conversion_failed": 34597,
+  "active": 0,
+  "backup": 3409,
+  "failed_after_core": 116969,
+  "healthy": 3409,
+  "published_total": 3409,
+  "countries": 41,
+  "published_by_country": {
+    "AL": {
+      "active": 0,
+      "backup": 1,
+      "total": 1
+    },
+    "AM": {
+      "active": 0,
+      "backup": 2,
+      "total": 2
+    },
+    "AU": {
+      "active": 0,
+      "backup": 8,
+      "total": 8
+    },
+    "BG": {
+      "active": 0,
+      "backup": 2,
+      "total": 2
+    },
+    "BR": {
+      "active": 0,
+      "backup": 7,
+      "total": 7
+    },
+    "CA": {
+      "active": 0,
+      "backup": 40,
+      "total": 40
+    },
+    "CH": {
+      "active": 0,
+      "backup": 39,
+      "total": 39
+    },
+    "CL": {
+      "active": 0,
+      "backup": 7,
+      "total": 7
+    },
+    "CZ": {
+      "active": 0,
+      "backup": 8,
+      "total": 8
+    },
+    "DE": {
+      "active": 0,
+      "backup": 173,
+      "total": 173
+    },
+    "EE": {
+      "active": 0,
+      "backup": 14,
+      "total": 14
+    },
+    "ES": {
+      "active": 0,
+      "backup": 46,
+      "total": 46
+    },
+    "FI": {
+      "active": 0,
+      "backup": 97,
+      "total": 97
+    },
+    "FR": {
+      "active": 0,
+      "backup": 274,
+      "total": 274
+    },
+    "GB": {
+      "active": 0,
+      "backup": 43,
+      "total": 43
+    },
+    "GR": {
+      "active": 0,
+      "backup": 5,
+      "total": 5
+    },
+    "HK": {
+      "active": 0,
+      "backup": 115,
+      "total": 115
+    },
+    "IL": {
+      "active": 0,
+      "backup": 7,
+      "total": 7
+    },
+    "IN": {
+      "active": 0,
+      "backup": 14,
+      "total": 14
+    },
+    "IT": {
+      "active": 0,
+      "backup": 14,
+      "total": 14
+    },
+    "JP": {
+      "active": 0,
+      "backup": 177,
+      "total": 177
+    },
+    "KR": {
+      "active": 0,
+      "backup": 4,
+      "total": 4
+    },
+    "KZ": {
+      "active": 0,
+      "backup": 1,
+      "total": 1
+    },
+    "LV": {
+      "active": 0,
+      "backup": 23,
+      "total": 23
+    },
+    "MD": {
+      "active": 0,
+      "backup": 1,
+      "total": 1
+    },
+    "MX": {
+      "active": 0,
+      "backup": 4,
+      "total": 4
+    },
+    "MY": {
+      "active": 0,
+      "backup": 3,
+      "total": 3
+    },
+    "NL": {
+      "active": 0,
+      "backup": 567,
+      "total": 567
+    },
+    "PL": {
+      "active": 0,
+      "backup": 54,
+      "total": 54
+    },
+    "RO": {
+      "active": 0,
+      "backup": 12,
+      "total": 12
+    },
+    "RU": {
+      "active": 0,
+      "backup": 28,
+      "total": 28
+    },
+    "SE": {
+      "active": 0,
+      "backup": 10,
+      "total": 10
+    },
+    "SG": {
+      "active": 0,
+      "backup": 87,
+      "total": 87
+    },
+    "SK": {
+      "active": 0,
+      "backup": 7,
+      "total": 7
+    },
+    "TH": {
+      "active": 0,
+      "backup": 3,
+      "total": 3
+    },
+    "TR": {
+      "active": 0,
+      "backup": 13,
+      "total": 13
+    },
+    "TW": {
+      "active": 0,
+      "backup": 13,
+      "total": 13
+    },
+    "UA": {
+      "active": 0,
+      "backup": 2,
+      "total": 2
+    },
+    "US": {
+      "active": 0,
+      "backup": 730,
+      "total": 730
+    },
+    "XX": {
+      "active": 0,
+      "backup": 753,
+      "total": 753
+    },
+    "ZA": {
+      "active": 0,
+      "backup": 1,
+      "total": 1
+    }
+  },
+  "country_names": {
+    "AL": "Albania",
+    "AM": "Armenia",
+    "AU": "Australia",
+    "BG": "Bulgaria",
+    "BR": "Brazil",
+    "CA": "Canada",
+    "CH": "Switzerland",
+    "CL": "Chile",
+    "CZ": "Czechia",
+    "DE": "Germany",
+    "EE": "Estonia",
+    "ES": "Spain",
+    "FI": "Finland",
+    "FR": "France",
+    "GB": "United Kingdom",
+    "GR": "Greece",
+    "HK": "Hong Kong",
+    "IL": "Israel",
+    "IN": "India",
+    "IT": "Italy",
+    "JP": "Japan",
+    "KR": "Korea, Republic of",
+    "KZ": "Kazakhstan",
+    "LV": "Latvia",
+    "MD": "Moldova, Republic of",
+    "MX": "Mexico",
+    "MY": "Malaysia",
+    "NL": "Netherlands",
+    "PL": "Poland",
+    "RO": "Romania",
+    "RU": "Russian Federation",
+    "SE": "Sweden",
+    "SG": "Singapore",
+    "SK": "Slovakia",
+    "TH": "Thailand",
+    "TR": "Türkiye",
+    "TW": "Taiwan, Province of China",
+    "UA": "Ukraine",
+    "US": "United States",
+    "XX": "XX",
+    "ZA": "South Africa"
+  },
+  "health_policy": "sing-box authenticated HTTPS response required before publication.",
+  "core": {
+    "schema": 1,
+    "name": "sing-box",
+    "repository": "SagerNet/sing-box",
+    "version": "1.14.4",
+    "revision": "c005f35300ce76427dc285481ec5695f5b179cd2",
+    "binary_sha256": "1264361b5f8868c8768f7555d3e77e20118bf503c41ac08bb290a0d99056aa3a",
+    "binary_bytes": 81416421,
+    "source": "https://github.com/SagerNet/sing-box/releases/tag/v1.14.4"
+  },
+  "country_policy": "Cloudflare trace country; exit IP GeoLite2 then entry host for XX nodes",
+  "geoip_xx_fallback": {
+    "provider": "GeoLite2-Country",
+    "scope": "working_xx_only",
+    "attempted": 0,
+    "exit_ip_classified": 0,
+    "entry_host_classified": 0,
+    "classified": 0,
+    "unresolved": 0
+  },
+  "xray_success_endpoints": {
+    "cloudflare": 2656,
+    "example": 17,
+    "google": 694,
+    "microsoft": 42
+  },
+  "speed_ranking": {
+    "measured": 2290,
+    "unmeasured": 1119,
+    "missing_shards": 0
+  },
+  "test_summary": {
+    "vless": {
+      "source_total": 90893,
+      "tested": 90893,
+      "working": 2170,
+      "failed": 88723,
+      "success_targets": {
+        "cloudflare": 1476,
+        "example": 8,
+        "google": 664,
+        "microsoft": 22
+      },
+      "published_after_dedup": 2170,
+      "failure_stages": {
+        "config": 886,
+        "connect": 73490,
+        "timeout": 5630,
+        "tls": 8717
+      }
+    },
+    "vmess": {
+      "source_total": 7503,
+      "tested": 7503,
+      "working": 238,
+      "failed": 7265,
+      "success_targets": {
+        "cloudflare": 202,
+        "example": 8,
+        "google": 11,
+        "microsoft": 17
+      },
+      "published_after_dedup": 238,
+      "failure_stages": {
+        "connect": 6594,
+        "timeout": 349,
+        "tls": 322
+      }
+    },
+    "trojan": {
+      "source_total": 19576,
+      "tested": 19576,
+      "working": 959,
+      "failed": 18617,
+      "success_targets": {
+        "cloudflare": 940,
+        "google": 16,
+        "microsoft": 3
+      },
+      "published_after_dedup": 959,
+      "failure_stages": {
+        "config": 14,
+        "connect": 16113,
+        "timeout": 353,
+        "tls": 2137
+      }
+    },
+    "shadowsocks": {
+      "source_total": 2406,
+      "tested": 2406,
+      "working": 42,
+      "failed": 2364,
+      "success_targets": {
+        "cloudflare": 38,
+        "example": 1,
+        "google": 3
+      },
+      "published_after_dedup": 42,
+      "failure_stages": {
+        "config": 14,
+        "connect": 1850,
+        "timeout": 106,
+        "tls": 394
+      }
+    }
+  }
+}

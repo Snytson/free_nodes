@@ -1,0 +1,2 @@
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=www.slovarik.xyz#%F0%9F%87%A6%F0%9F%87%B2%20t.me/rghoddoosi%20%D8%B1%D8%B3%D9%88%D9%84%20%D9%82%D8%AF%D9%88%D8%B3%DB%8C%20-%2083
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=www.slovarik.xyz#0885

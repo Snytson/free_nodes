@@ -1,0 +1,14 @@
+{
+  "schema": 2,
+  "generated_at": "2026-10-31T05:03:15Z",
+  "filtering_policy": "all_healthy_nonempty_sources",
+  "max_stale_hours": null,
+  "sources_checked": 514,
+  "active_sources": 478,
+  "stale_sources": 0,
+  "duplicate_sources": 0,
+  "failed_sources": 7,
+  "empty_sources": 29,
+  "input_nodes": 517516,
+  "included_nodes": 517516
+}
