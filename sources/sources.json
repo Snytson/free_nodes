@@ -50,10 +50,6 @@
       "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/main/output/all_valid_proxies.txt"
     },
     {
-      "name": "Au1rxx-v2ray-base64",
-      "url": "https://raw.githubusercontent.com/Au1rxx/free-vpn-subscriptions/main/output/v2ray-base64.txt"
-    },
-    {
       "name": "0xRadikal-configs_base64",
       "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/all/configs_base64.txt"
     },
@@ -110,11 +106,17 @@
     },
     {
       "name": "morpheusadam-reality",
-      "url": "https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/reality.txt"
+      "url": "https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/reality.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "morpheusadam-iran",
-      "url": "https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/iran.txt"
+      "url": "https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/iran.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "barry-far-All_Configs_Sub",
@@ -300,51 +302,46 @@
     },
     {
       "name": "mhditaheri-v2raycollector",
-      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vlessbase64"
+      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/main/sub/vlessbase64",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mhditaheri-v2raycollector_py",
-      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/HEAD/sub/Mix/mix.txt"
+      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/HEAD/sub/Mix/mix.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mohsenreyhani-vless-subscriptions",
-      "url": "https://raw.githubusercontent.com/MohsenReyhani/vless-subscriptions/HEAD/subs.txt"
+      "url": "https://raw.githubusercontent.com/MohsenReyhani/vless-subscriptions/HEAD/subs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mokafela-config-finder",
-      "url": "https://raw.githubusercontent.com/Mokafela/Config-Finder/master/split/sub-ALL.txt"
-    },
-    {
-      "name": "mosifree-free2config",
-      "url": "https://raw.githubusercontent.com/Mosifree/-FREE2CONFIG/refs/heads/main/Reality"
+      "url": "https://raw.githubusercontent.com/Mokafela/Config-Finder/master/split/sub-ALL.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mrabolfazlnorouzi-iran-configs",
-      "url": "https://raw.githubusercontent.com/MrAbolfazlNorouzi/iran-configs/HEAD/configs/working-configs.txt"
+      "url": "https://raw.githubusercontent.com/MrAbolfazlNorouzi/iran-configs/HEAD/configs/working-configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mustafabaqer-vestranet-nodes",
       "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/subscriptions/mix-base64.txt"
     },
     {
-      "name": "nima-monajjemy-v2ray-configs-nofolter",
-      "url": "https://raw.githubusercontent.com/Nima-Monajjemy/v2ray-configs-nofolter/HEAD/configs.txt"
-    },
-    {
-      "name": "nima-monajjemy-v2ray-configs",
-      "url": "https://raw.githubusercontent.com/Nima-Monajjemy/v2ray-configs/HEAD/configs.txt"
-    },
-    {
-      "name": "pasimand-v2ray-config-agg",
-      "url": "https://raw.githubusercontent.com/Pasimand/v2ray-config-agg/main/config.txt"
-    },
-    {
       "name": "planaslii-vira-v2ray-configs",
       "url": "https://raw.githubusercontent.com/PlanAslii/vira-v2ray-configs/main/all.txt"
-    },
-    {
-      "name": "shadowexception-vpn",
-      "url": "https://raw.githubusercontent.com/ShadowException/VPN/refs/heads/main/configs/VPN-cat"
     },
     {
       "name": "shatakvpn-configforge-v2ray",
@@ -476,11 +473,17 @@
     },
     {
       "name": "itsyebekhe-psg",
-      "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/config.txt"
+      "url": "https://raw.githubusercontent.com/itsyebekhe/PSG/main/config.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "jafarm83-configv2ray",
-      "url": "https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/jafar.txt"
+      "url": "https://raw.githubusercontent.com/jafarm83/ConfigV2Ray/main/jafar.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "kasesm-free-config",
@@ -488,23 +491,38 @@
     },
     {
       "name": "komoterdon-free-sub",
-      "url": "https://raw.githubusercontent.com/komoterdon/free-sub/HEAD/sub.txt"
+      "url": "https://raw.githubusercontent.com/komoterdon/free-sub/HEAD/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "kooker-freesubscheck",
-      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt"
+      "url": "https://raw.githubusercontent.com/kooker/FreeSubsCheck/main/base64.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "liketolivefree-kobabi",
-      "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "longlon-v2ray-config",
-      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/HEAD/Sub24.txt"
+      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/HEAD/Sub24.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mahsanet-mahsafreeconfig",
-      "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt"
+      "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mci/sub_1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mehrtat-vless-collector",
@@ -512,11 +530,17 @@
     },
     {
       "name": "miladtahanian-config-collector",
-      "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/HEAD/mixed_iran.txt"
+      "url": "https://raw.githubusercontent.com/miladtahanian/Config-Collector/HEAD/mixed_iran.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mohamadfg-dev-telegram-v2ray-configs-collector",
-      "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt"
+      "url": "https://raw.githubusercontent.com/mohamadfg-dev/telegram-v2ray-configs-collector/refs/heads/main/category/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mohammmdmdmkdmewof-v2rayconfigsforyou",
@@ -524,7 +548,10 @@
     },
     {
       "name": "momimamadrar-config_v2ray",
-      "url": "https://raw.githubusercontent.com/momimamadrar/Config_v2ray/HEAD/vless.txt"
+      "url": "https://raw.githubusercontent.com/momimamadrar/Config_v2ray/HEAD/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "myominn062-svg-mk-studio-vpn-service",
@@ -532,7 +559,10 @@
     },
     {
       "name": "nyeinkokoaung404-v2ray-configs",
-      "url": "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt"
+      "url": "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/All_Configs_Sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "patterniha-free-configs",
@@ -557,10 +587,6 @@
     {
       "name": "rango-cfs-newcollector",
       "url": "https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt"
-    },
-    {
-      "name": "sakazxc1400-creator-free-vpn-sub",
-      "url": "https://raw.githubusercontent.com/sakazxc1400-creator/free-vpn-sub/gh-pages/sub-full.txt"
     },
     {
       "name": "sinavm-svm",
@@ -639,7 +665,10 @@
     },
     {
       "name": "manifest-dpdns-v2ray",
-      "url": "https://manifest.dpdns.org/free/latest/v2ray.txt"
+      "url": "https://manifest.dpdns.org/free/latest/v2ray.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "etoneya-subscription",
@@ -708,7 +737,10 @@
     },
     {
       "name": "miladtahanian-v2raycfgdumper-sub",
-      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/miladtahanian/V2RayCFGDumper/refs/heads/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "anaer-clash",
@@ -716,36 +748,12 @@
       "format": "clash_yaml"
     },
     {
-      "name": "syavar-speedtest-tinkoff",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_speedtest.tinkoff.ru.txt"
-    },
-    {
-      "name": "syavar-mddc-tinkoff",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_mddc.tinkoff.ru.txt"
-    },
-    {
-      "name": "syavar-css-rbxcdn",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_css.rbxcdn.com.txt"
-    },
-    {
       "name": "syavar-whatsapp",
       "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_whatsapp.com.txt"
     },
     {
-      "name": "syavar-alfabank",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_alfabank.ru.txt"
-    },
-    {
-      "name": "syavar-google",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_google.com.txt"
-    },
-    {
       "name": "syavar-vk",
       "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_vk.com.txt"
-    },
-    {
-      "name": "syavar-telegram",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_telegram.org.txt"
     },
     {
       "name": "pornnewbee-free-vless",
@@ -771,7 +779,10 @@
     },
     {
       "name": "mohammadaz2-all",
-      "url": "https://raw.githubusercontent.com/mohammadaz2/v2rayConfigsForYou/main/configs.txt"
+      "url": "https://raw.githubusercontent.com/mohammadaz2/v2rayConfigsForYou/main/configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "lalatinahub-latinasub-nodes",
@@ -827,7 +838,10 @@
     },
     {
       "name": "kort0881-vmess",
-      "url": "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/data/githubmirror/clean/vmess.txt"
+      "url": "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/data/githubmirror/clean/vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "kort0881-trojan",
@@ -835,7 +849,10 @@
     },
     {
       "name": "kort0881-ss",
-      "url": "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/data/githubmirror/clean/ss.txt"
+      "url": "https://raw.githubusercontent.com/kort0881/vpn-vless-configs-russia/main/data/githubmirror/clean/ss.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "nikita29a-freeproxylist-tree",
@@ -938,38 +955,6 @@
       "url": "https://raw.githubusercontent.com/Use4Free/V2rayCollector/main/mixed_iran.txt"
     },
     {
-      "name": "rohamnv-vless",
-      "url": "https://raw.githubusercontent.com/rohamnv/V2rayCollector/main/vless_iran.txt"
-    },
-    {
-      "name": "rohamnv-vmess",
-      "url": "https://raw.githubusercontent.com/rohamnv/V2rayCollector/main/vmess_iran.txt"
-    },
-    {
-      "name": "rohamnv-trojan",
-      "url": "https://raw.githubusercontent.com/rohamnv/V2rayCollector/main/trojan_iran.txt"
-    },
-    {
-      "name": "rohamnv-ss",
-      "url": "https://raw.githubusercontent.com/rohamnv/V2rayCollector/main/ss_iran.txt"
-    },
-    {
-      "name": "rohamnv-mixed",
-      "url": "https://raw.githubusercontent.com/rohamnv/V2rayCollector/main/mixed_iran.txt"
-    },
-    {
-      "name": "morawd-vless",
-      "url": "https://raw.githubusercontent.com/morawd/V2rayCollector/main/vless_iran.txt"
-    },
-    {
-      "name": "morawd-vmess",
-      "url": "https://raw.githubusercontent.com/morawd/V2rayCollector/main/vmess_iran.txt"
-    },
-    {
-      "name": "skillfulelectro-all-configs",
-      "url": "https://raw.githubusercontent.com/SkillfulElectro/V2RayCollector/main/Config/all_configs.txt"
-    },
-    {
       "name": "3yed61-vmess",
       "url": "https://raw.githubusercontent.com/3yed-61/V2rayCollector/main/sub/vmess",
       "disabled": true,
@@ -979,14 +964,6 @@
     {
       "name": "shahbbbb-v2ray-collector",
       "url": "https://raw.githubusercontent.com/SHAHBBBB/V2ray-collector/main/output/sub.txt"
-    },
-    {
-      "name": "ramintabriz-trojan",
-      "url": "https://raw.githubusercontent.com/RaminTabriz/V2rayCollector/main/%F0%9F%94%97%20subscription/%F0%9F%90%B4%20Trojan.txt"
-    },
-    {
-      "name": "ramintabriz-shadowsocks",
-      "url": "https://raw.githubusercontent.com/RaminTabriz/V2rayCollector/main/%F0%9F%94%97%20subscription/%F0%9F%90%8D%20Shadowsocks.txt"
     },
     {
       "name": "freenodebiz-all",
@@ -1005,15 +982,14 @@
     },
     {
       "name": "luckylukam-tel-fetch1-configs",
-      "url": "https://raw.githubusercontent.com/luckylukam/tel-fetch1/main/output/configs.txt"
+      "url": "https://raw.githubusercontent.com/luckylukam/tel-fetch1/main/output/configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "rekt0ro-ProxyRift-all",
       "url": "https://raw.githubusercontent.com/rekt0ro/ProxyRift/main/subscriptions/all.txt"
-    },
-    {
-      "name": "ssavnayt-AWCFG-CONFIG-LIST-Configs-AUTO",
-      "url": "https://raw.githubusercontent.com/ssavnayt/AWCFG-CONFIG-LIST/main/Configs-AUTO.txt"
     },
     {
       "name": "fifthidea-sub-V2rayBaaz",
@@ -1094,10 +1070,6 @@
       "url": "https://raw.githubusercontent.com/yuanxiawan/freevless/main/results/valid_vless_configs.txt"
     },
     {
-      "name": "skxxxkx666-freeport-manifest-v2ray",
-      "url": "https://raw.githubusercontent.com/skxxxkx666/freeport-manifest/main/public/free/20260729/v2ray.txt"
-    },
-    {
       "name": "TelegaVPN-free-vpn-keys-all",
       "url": "https://raw.githubusercontent.com/TelegaVPN/free-vpn-keys/main/sub/base64/all.txt"
     },
@@ -1114,7 +1086,10 @@
     },
     {
       "name": "mahdyaralipor-v2all-real_working",
-      "url": "https://raw.githubusercontent.com/mahdyaralipor/v2all/refs/heads/main/real_working.txt"
+      "url": "https://raw.githubusercontent.com/mahdyaralipor/v2all/refs/heads/main/real_working.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-04T17:11:36Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "chenzhihan1751-cyber-node-sub-zixf-v2ray",
