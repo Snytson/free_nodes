@@ -90,7 +90,10 @@
     },
     {
       "name": "Pawdroid-Free-servers",
-      "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub"
+      "url": "https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub",
+      "disabled": true,
+      "disabled_at": "2026-11-05T17:30:22Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "morpheusadam-best",
@@ -540,7 +543,10 @@
     },
     {
       "name": "mohammmdmdmkdmewof-v2rayconfigsforyou",
-      "url": "https://raw.githubusercontent.com/mohammmdmdmkdmewof/v2rayConfigsForYou/HEAD/configs.txt"
+      "url": "https://raw.githubusercontent.com/mohammmdmdmkdmewof/v2rayConfigsForYou/HEAD/configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T17:30:22Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "momimamadrar-config_v2ray",
