@@ -85,10 +85,6 @@
       "url": "https://raw.githubusercontent.com/rasool083/v2ray-sub/main/sub.txt"
     },
     {
-      "name": "teknovpnhub-servers",
-      "url": "https://raw.githubusercontent.com/teknovpnhub/v2ray-subscription/main/servers.txt"
-    },
-    {
       "name": "rtwo2-everything",
       "url": "https://raw.githubusercontent.com/rtwo2/FastNodes/main/sub/everything.txt"
     },
@@ -570,19 +566,31 @@
     },
     {
       "name": "peasoft-nomorewalls",
-      "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt"
+      "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list_raw.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "penhandev-autoaivpn",
-      "url": "https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/allConfigs.txt"
+      "url": "https://raw.githubusercontent.com/penhandev/AutoAiVPN/main/allConfigs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "pog7x-vpn-configs",
-      "url": "https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/18.txt"
+      "url": "https://raw.githubusercontent.com/pog7x/vpn-configs/refs/heads/master/githubmirror/18.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "ramram33-ram-v2ray-configs",
-      "url": "https://raw.githubusercontent.com/ramram33/Ram-v2ray-configs/HEAD/reality_strict_configs_base64.txt"
+      "url": "https://raw.githubusercontent.com/ramram33/Ram-v2ray-configs/HEAD/reality_strict_configs_base64.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "rango-cfs-newcollector",
@@ -590,7 +598,10 @@
     },
     {
       "name": "sinavm-svm",
-      "url": "https://raw.githubusercontent.com/sinavm/SVM/main/subscriptions/xray/base64/vless"
+      "url": "https://raw.githubusercontent.com/sinavm/SVM/main/subscriptions/xray/base64/vless",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "ssrsub-ssr",
@@ -661,7 +672,10 @@
     },
     {
       "name": "rahi-eq3-all-configs",
-      "url": "https://rahi-eq3.pages.dev/api/configs?limit=all"
+      "url": "https://rahi-eq3.pages.dev/api/configs?limit=all",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "manifest-dpdns-v2ray",
@@ -676,7 +690,10 @@
     },
     {
       "name": "shadowmere-b64sub",
-      "url": "http://84.235.245.14:8787/shadowmere"
+      "url": "http://84.235.245.14:8787/shadowmere",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "robin-victoriacross",
@@ -748,16 +765,11 @@
       "format": "clash_yaml"
     },
     {
-      "name": "syavar-whatsapp",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_whatsapp.com.txt"
-    },
-    {
-      "name": "syavar-vk",
-      "url": "https://raw.githubusercontent.com/Syavar/V2ray-Configs/main/OK_TLS_vk.com.txt"
-    },
-    {
       "name": "pornnewbee-free-vless",
-      "url": "https://raw.githubusercontent.com/pornnewbee/free-vless-VPN/main/vless.txt"
+      "url": "https://raw.githubusercontent.com/pornnewbee/free-vless-VPN/main/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "idolvpn-vless",
@@ -798,7 +810,10 @@
     },
     {
       "name": "problemthecode-sylphnet",
-      "url": "https://raw.githubusercontent.com/ProblemTheCode/SylphNet-public/main/sub/sub.txt"
+      "url": "https://raw.githubusercontent.com/ProblemTheCode/SylphNet-public/main/sub/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "ishalumi-proxy-node-collector",
@@ -963,7 +978,10 @@
     },
     {
       "name": "shahbbbb-v2ray-collector",
-      "url": "https://raw.githubusercontent.com/SHAHBBBB/V2ray-collector/main/output/sub.txt"
+      "url": "https://raw.githubusercontent.com/SHAHBBBB/V2ray-collector/main/output/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "freenodebiz-all",
@@ -1000,7 +1018,10 @@
     },
     {
       "name": "svinakraft-maker-FlareFeed-vless",
-      "url": "https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/vless.txt"
+      "url": "https://raw.githubusercontent.com/svinakraft-maker/FlareFeed/main/public/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "zhaoligui0512-free-nodes-free-nodes",
@@ -1012,7 +1033,10 @@
     },
     {
       "name": "ssnn20012001-bot-v2ray-sub-nodes",
-      "url": "https://raw.githubusercontent.com/ssnn20012001-bot/v2ray-sub/main/nodes.txt"
+      "url": "https://raw.githubusercontent.com/ssnn20012001-bot/v2ray-sub/main/nodes.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-05T07:03:05Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "nukcrow-black-crow-sub1",
