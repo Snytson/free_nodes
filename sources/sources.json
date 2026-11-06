@@ -159,10 +159,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "weoknow-dayupdate-1-z",
-      "url": "https://weoknow.com/data/dayupdate/1/z.txt"
-    },
-    {
       "name": "svinakraft-podpiska",
       "url": "https://vless.svinakraft.workers.dev/podpiska.txt",
       "gitverse_fallback_urls": [
@@ -184,10 +180,6 @@
     {
       "name": "igareck-WHITE-CIDR-RU-all",
       "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/WHITE-CIDR-RU-all.txt"
-    },
-    {
-      "name": "xiaoji235-airport-free",
-      "url": "https://cdn.jsdelivr.net/gh/xiaoji235/airport-free/v2ray/v2rayshare.txt"
     },
     {
       "name": "dfantomasd-myvpn-subscription",
@@ -648,20 +640,12 @@
       "url": "https://raw.githubusercontent.com/yitong2333/proxy-minging/refs/heads/main/v2ray.txt"
     },
     {
-      "name": "youfoundamin-v2raycollector",
-      "url": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/vless_iran.txt"
-    },
-    {
       "name": "zhuhaiuk-free-nodes",
       "url": "https://raw.githubusercontent.com/zhuhaiuk/free-nodes/main/nodes.txt"
     },
     {
       "name": "zieng2-wl",
       "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_universal.txt"
-    },
-    {
-      "name": "zjfb-subcrawler",
-      "url": "https://raw.githubusercontent.com/zjfb/SubCrawler/main/sub/share/all"
     },
     {
       "name": "arg9244-v2r-subs-mix",
@@ -744,7 +728,10 @@
     },
     {
       "name": "chengaopan-AutoMergePublicNodes-list_raw",
-      "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list_raw.txt"
+      "url": "https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list_raw.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-06T16:55:41Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "banyunxiaoxi-sub-base64",
@@ -852,24 +839,8 @@
       "url": "https://raw.githubusercontent.com/Denchic-2009/xray-checked-configs/main/config.txt"
     },
     {
-      "name": "wenxig-free-nodes-sub",
-      "url": "https://raw.githubusercontent.com/wenxig/free-nodes-sub/main/data/sub.txt"
-    },
-    {
       "name": "zhangdunlong-free-v2ray-nodes",
       "url": "https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt"
-    },
-    {
-      "name": "vorz1k-v2box-1",
-      "url": "https://raw.githubusercontent.com/vorz1k/v2box/main/supreme_vpns_1.txt"
-    },
-    {
-      "name": "vorz1k-v2box-2",
-      "url": "https://raw.githubusercontent.com/vorz1k/v2box/main/supreme_vpns_2.txt"
-    },
-    {
-      "name": "vorz1k-v2box-3",
-      "url": "https://raw.githubusercontent.com/vorz1k/v2box/main/supreme_vpns_3.txt"
     },
     {
       "name": "kort0881-vless",
@@ -956,26 +927,6 @@
     {
       "name": "vpnineh-shadowsocks",
       "url": "https://raw.githubusercontent.com/vpnineh/configs-collector-v2ray/main/sub/protocols/shadowsocks.txt"
-    },
-    {
-      "name": "use4free-vless",
-      "url": "https://raw.githubusercontent.com/Use4Free/V2rayCollector/main/vless_iran.txt"
-    },
-    {
-      "name": "use4free-vmess",
-      "url": "https://raw.githubusercontent.com/Use4Free/V2rayCollector/main/vmess_iran.txt"
-    },
-    {
-      "name": "use4free-trojan",
-      "url": "https://raw.githubusercontent.com/Use4Free/V2rayCollector/main/trojan_iran.txt"
-    },
-    {
-      "name": "use4free-ss",
-      "url": "https://raw.githubusercontent.com/Use4Free/V2rayCollector/main/ss_iran.txt"
-    },
-    {
-      "name": "use4free-mixed",
-      "url": "https://raw.githubusercontent.com/Use4Free/V2rayCollector/main/mixed_iran.txt"
     },
     {
       "name": "3yed61-vmess",
