@@ -97,7 +97,10 @@
     },
     {
       "name": "morpheusadam-best",
-      "url": "https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt"
+      "url": "https://raw.githubusercontent.com/morpheusadam/v2ray-config/main/subs/bundles/best.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-06T06:58:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "morpheusadam-vless",
@@ -119,7 +122,10 @@
     },
     {
       "name": "barry-far-All_Configs_Sub",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Config/main/All_Configs_Sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-06T06:58:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "MohammadBahemmat-all_servers",
@@ -281,7 +287,10 @@
     },
     {
       "name": "lalatinahub-mineral",
-      "url": "https://raw.githubusercontent.com/LalatinaHub/Mineral/refs/heads/master/result/nodes"
+      "url": "https://raw.githubusercontent.com/LalatinaHub/Mineral/refs/heads/master/result/nodes",
+      "disabled": true,
+      "disabled_at": "2026-11-06T06:58:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "leilaomi-automergepublicnodes-optimized",
@@ -293,7 +302,10 @@
     },
     {
       "name": "mahdi0024-proxycollector",
-      "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt"
+      "url": "https://raw.githubusercontent.com/Mahdi0024/ProxyCollector/master/sub/proxies.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-06T06:58:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "meret2019-vless-subscription",
@@ -344,7 +356,10 @@
     },
     {
       "name": "shatakvpn-configforge-v2ray",
-      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt"
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-06T06:58:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "solispirit-solvpn",
@@ -380,7 +395,10 @@
     },
     {
       "name": "acymz-autovpn",
-      "url": "https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt"
+      "url": "https://raw.githubusercontent.com/acymz/AutoVPN/refs/heads/main/data/V2.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-06T06:58:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "aishervin-subfine",
@@ -924,22 +942,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "sakha1370-v2raycollector-vless",
-      "url": "https://raw.githubusercontent.com/sakha1370/V2rayCollector/main/vless_iran.txt"
-    },
-    {
-      "name": "sakha1370-v2raycollector-vmess",
-      "url": "https://raw.githubusercontent.com/sakha1370/V2rayCollector/main/vmess_iran.txt"
-    },
-    {
-      "name": "sakha1370-v2raycollector-trojan",
-      "url": "https://raw.githubusercontent.com/sakha1370/V2rayCollector/main/trojan_iran.txt"
-    },
-    {
-      "name": "sakha1370-v2raycollector-ss",
-      "url": "https://raw.githubusercontent.com/sakha1370/V2rayCollector/main/ss_iran.txt"
-    },
-    {
       "name": "vpnineh-vless",
       "url": "https://raw.githubusercontent.com/vpnineh/configs-collector-v2ray/main/sub/protocols/vless.txt"
     },
@@ -1139,7 +1141,10 @@
     },
     {
       "name": "gh-aishervin-V2flair-clean-sub",
-      "url": "https://raw.githubusercontent.com/aishervin/V2flair/main/clean_sub.txt"
+      "url": "https://raw.githubusercontent.com/aishervin/V2flair/main/clean_sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-06T06:58:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-mirrorrepomagic-free-v2ray-public-list-ss-configs",
