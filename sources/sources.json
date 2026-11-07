@@ -219,7 +219,10 @@
     },
     {
       "name": "4n0nymou3-multi-proxy-config-fetcher",
-      "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt"
+      "url": "https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T15:47:56Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "aliilapro-v2rayng-config",
@@ -274,7 +277,10 @@
     },
     {
       "name": "freedom-guard-builder-freedom-finder",
-      "url": "https://raw.githubusercontent.com/Freedom-Guard-Builder/Freedom-Finder/HEAD/out/configs/all.txt"
+      "url": "https://raw.githubusercontent.com/Freedom-Guard-Builder/Freedom-Finder/HEAD/out/configs/all.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T15:47:56Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "hidashimora-free-vpn-anti-rkn",
@@ -293,7 +299,10 @@
     },
     {
       "name": "mahankenway-pusheen-v2ray",
-      "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/subscriptions/all-vless.base64"
+      "url": "https://raw.githubusercontent.com/MahanKenway/Pusheen-V2Ray/main/subscriptions/all-vless.base64",
+      "disabled": true,
+      "disabled_at": "2026-11-07T15:47:56Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mahdi0024-proxycollector",
@@ -468,7 +477,10 @@
     },
     {
       "name": "gbcwror-v2ray-tester",
-      "url": "https://raw.githubusercontent.com/gbcwror/v2ray-tester/HEAD/configs/vless/vless-1.txt"
+      "url": "https://raw.githubusercontent.com/gbcwror/v2ray-tester/HEAD/configs/vless/vless-1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T15:47:56Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "heliataromi-confighub",
@@ -720,7 +732,10 @@
     },
     {
       "name": "robin-victoriacross",
-      "url": "https://robin.victoriacross.ir"
+      "url": "https://robin.victoriacross.ir",
+      "disabled": true,
+      "disabled_at": "2026-11-07T15:47:56Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "whoahaow-rjsxrd-bypass-all",
