@@ -1262,39 +1262,59 @@
     },
     {
       "name": "gh-Freedom-Guard-Builder-Freedom-Finder-DeamNet-proxy",
-      "url": "https://raw.githubusercontent.com/Freedom-Guard-Builder/Freedom-Finder/main/out/channels/DeamNet_proxy.txt"
+      "url": "https://raw.githubusercontent.com/Freedom-Guard-Builder/Freedom-Finder/main/out/channels/DeamNet_proxy.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-fifthidea-sub-DeamNet-Proxy",
-      "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/DeamNet_Proxy.txt"
+      "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/DeamNet_Proxy.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-fifthidea-sub-FreakConfig",
-      "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/FreakConfig.txt"
+      "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/FreakConfig.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-fifthidea-sub-vpnfail-v2ray",
-      "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/vpnfail_v2ray.txt"
-    },
-    {
-      "name": "gh-fifthidea-sub-vpnfreev2rayconfig",
-      "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/vpnfreev2rayconfig.txt"
+      "url": "https://raw.githubusercontent.com/fifthidea/sub/main/channels/vpnfail_v2ray.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-ihidao-v2ray-core-for-XP-sub-1",
-      "url": "https://codecov.io/gh/v2fly/v2ray-core?branch=master"
+      "url": "https://codecov.io/gh/v2fly/v2ray-core?branch=master",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-ihidao-v2ray-core-for-XP-sub-2",
-      "url": "https://www.v2fly.org"
+      "url": "https://www.v2fly.org",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-ihidao-v2ray-core-for-XP-sub-3",
-      "url": "https://www.v2fly.org/guide/start.html"
+      "url": "https://www.v2fly.org/guide/start.html",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-ihidao-v2ray-core-for-XP-sub-4",
-      "url": "https://repology.org/project/v2ray/versions"
+      "url": "https://repology.org/project/v2ray/versions",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-bypass-all",
@@ -1302,7 +1322,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-1",
-      "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt"
+      "url": "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-5",
@@ -1322,23 +1345,28 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-10",
-      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt"
+      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/refs/heads/main/sub/Mix/mix.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-11",
-      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt"
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/All_Configs_Sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-12",
-      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/refs/heads/main/sub/mix"
+      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector/refs/heads/main/sub/mix",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-14",
       "url": "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-15",
-      "url": "https://raw.githubusercontent.com/AzadNetCH/Clash/refs/heads/main/AzadNet.txt"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-16",
@@ -1641,12 +1669,11 @@
       "url": "https://autosub-config.vercel.app/sub.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-101",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/2.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-102",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/3.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/3.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-103",
@@ -1654,7 +1681,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-104",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/5.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/5.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-105",
@@ -1662,87 +1692,63 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-106",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/7.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-107",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/8.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-108",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/9.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-109",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/10.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-110",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/11.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-111",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/12.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/7.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-112",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/13.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/13.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-113",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/14.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-114",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/15.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-115",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/16.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/14.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-116",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/17.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-117",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/18.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/17.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-118",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/19.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-119",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/20.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/19.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-120",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/21.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/21.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-121",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/22.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-122",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/23.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/22.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-123",
       "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/24.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-124",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/25.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-125",
-      "url": "https://raw.githubusercontent.com/47AgEnT-47/vpn-configs/refs/heads/main/configs.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-126",
-      "url": "https://stpcd.link/sub/1ccc074f-b7dc-4dd2-accd-c08653b0fa37#HelloWorld"
+      "url": "https://stpcd.link/sub/1ccc074f-b7dc-4dd2-accd-c08653b0fa37#HelloWorld",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-127",
@@ -1754,7 +1760,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-129",
-      "url": "https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyaktestru.txt"
+      "url": "https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyaktestru.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-130",
@@ -1770,43 +1779,21 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-133",
-      "url": "https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_Best/ru_white_part4.txt"
+      "url": "https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_Best/ru_white_part4.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-134",
-      "url": "https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/My_Euro/my_euro_part1.txt"
+      "url": "https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/My_Euro/my_euro_part1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T21:01:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-135",
       "url": "https://subrostunnel.vercel.app/gen.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-136",
-      "url": "https://raw.githubusercontent.com/amindzlvess-boop/SlashVPN/refs/heads/main/vpn.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-137",
-      "url": "https://raw.githubusercontent.com/prominbro/KfWL/refs/heads/main/KfWL.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-138",
-      "url": "https://raw.githubusercontent.com/prominbro/KfWL/refs/heads/main/KfWLcheck.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-139",
-      "url": "https://gitverse.ru/api/repos/kfwlru/base/raw/branch/main/KfWL.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-140",
-      "url": "https://gitverse.ru/api/repos/kfwlru/base/raw/branch/main/KfWLcheck.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-141",
-      "url": "https://gistpad.com/raw/greywebs-and-vless-vpn-tg-reverse-engineer-s-basement"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-142",
-      "url": "https://gistpad.com/raw/mia-vpn-tg-reverse-engineer-s-basement"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-143",
@@ -1817,20 +1804,8 @@
       "url": "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/merged.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-145",
-      "url": "https://raw.githubusercontent.com/prominbro/sub/refs/heads/main/212.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-146",
-      "url": "https://obwlsub.vercel.app/wwh"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-147",
       "url": "https://alley.serv00.net/other"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-148",
-      "url": "https://raw.githubusercontent.com/Ilyacom4ik/free-v2ray-2026/main/subscriptions/FreeCFGHub1.txt"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-149",
