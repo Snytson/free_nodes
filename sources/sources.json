@@ -374,7 +374,10 @@
     },
     {
       "name": "vovaplusexp-p-configs",
-      "url": "https://raw.githubusercontent.com/VovaplusEXP/p-configs/main/Splitted-By-Protocol-Base64/vless.txt"
+      "url": "https://raw.githubusercontent.com/VovaplusEXP/p-configs/main/Splitted-By-Protocol-Base64/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "wlget-v2ray_configs_64",
@@ -386,7 +389,10 @@
     },
     {
       "name": "zendanteam-ss44-sub",
-      "url": "https://raw.githubusercontent.com/ZendanTeam/SS44-sub/main/SS44-base64.txt"
+      "url": "https://raw.githubusercontent.com/ZendanTeam/SS44-sub/main/SS44-base64.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "acymz-autovpn",
@@ -632,7 +638,10 @@
     },
     {
       "name": "ts-sf-fly",
-      "url": "https://raw.githubusercontent.com/ts-sf/fly/main/v2"
+      "url": "https://raw.githubusercontent.com/ts-sf/fly/main/v2",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "wuqb2i4f-xray-config-toolkit",
@@ -679,7 +688,10 @@
     },
     {
       "name": "trm8g466d4-v2ray-sub",
-      "url": "https://raw.githubusercontent.com/trm8g466d4-source/v2ray-sub/main/v2ray_sub.txt"
+      "url": "https://raw.githubusercontent.com/trm8g466d4-source/v2ray-sub/main/v2ray_sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "rahi-eq3-all-configs",
@@ -820,7 +832,10 @@
     },
     {
       "name": "zxcursedzxc0721-vless",
-      "url": "https://raw.githubusercontent.com/zxcursedzxc0721/vless-subscriptions/main/all/vless.txt"
+      "url": "https://raw.githubusercontent.com/zxcursedzxc0721/vless-subscriptions/main/all/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "problemthecode-sylphnet",
@@ -843,7 +858,10 @@
     },
     {
       "name": "zhangdunlong-free-v2ray-nodes",
-      "url": "https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt"
+      "url": "https://raw.githubusercontent.com/zhangdunlong/free-v2ray-nodes/main/unique_nodes.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "kort0881-vless",
@@ -929,7 +947,10 @@
     },
     {
       "name": "vpnineh-shadowsocks",
-      "url": "https://raw.githubusercontent.com/vpnineh/configs-collector-v2ray/main/sub/protocols/shadowsocks.txt"
+      "url": "https://raw.githubusercontent.com/vpnineh/configs-collector-v2ray/main/sub/protocols/shadowsocks.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "3yed61-vmess",
@@ -987,7 +1008,10 @@
     },
     {
       "name": "zhaoligui0512-free-nodes-free-nodes",
-      "url": "https://raw.githubusercontent.com/zhaoligui0512/free-nodes/main/free-nodes.txt"
+      "url": "https://raw.githubusercontent.com/zhaoligui0512/free-nodes/main/free-nodes.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "RichTiTAN-V2rayTested-working_configs",
@@ -1013,7 +1037,10 @@
     },
     {
       "name": "vincent20240707-free-v2ray-nodes-nodes",
-      "url": "https://raw.githubusercontent.com/vincent20240707/free-v2ray-nodes/main/nodes.txt"
+      "url": "https://raw.githubusercontent.com/vincent20240707/free-v2ray-nodes/main/nodes.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "LoneKingCode-free-proxy-db-all",
@@ -1038,11 +1065,17 @@
     },
     {
       "name": "zxcpocemu-dot-vpn-sub-sub_plain",
-      "url": "https://raw.githubusercontent.com/zxcpocemu-dot/vpn-sub/main/out/sub_plain.txt"
+      "url": "https://raw.githubusercontent.com/zxcpocemu-dot/vpn-sub/main/out/sub_plain.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "tglaoshiji-nodeshare-v2ray",
-      "url": "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2026/v2ray.txt"
+      "url": "https://raw.githubusercontent.com/tglaoshiji/nodeshare/main/2026/v2ray.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gslege-CloudflareIP-Vless",
@@ -1053,7 +1086,10 @@
     },
     {
       "name": "yuanxiawan-freevless-valid_vless_configs",
-      "url": "https://raw.githubusercontent.com/yuanxiawan/freevless/main/results/valid_vless_configs.txt"
+      "url": "https://raw.githubusercontent.com/yuanxiawan/freevless/main/results/valid_vless_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "TelegaVPN-free-vpn-keys-all",
@@ -1061,7 +1097,10 @@
     },
     {
       "name": "trikiman-vlessfilter-all",
-      "url": "https://raw.githubusercontent.com/trikiman/vlessfilter/refs/heads/main/subs/all.txt"
+      "url": "https://raw.githubusercontent.com/trikiman/vlessfilter/refs/heads/main/subs/all.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-07T06:26:09Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "Barabama-FreeNodes-nodev2ray",
