@@ -1366,15 +1366,17 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-14",
-      "url": "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-16",
-      "url": "https://raw.githubusercontent.com/V2RayRoot/V2RayConfig/refs/heads/main/Config/vless.txt"
+      "url": "https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-18",
-      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt"
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-19",
@@ -1793,11 +1795,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-135",
-      "url": "https://subrostunnel.vercel.app/gen.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-143",
-      "url": "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/selected.txt"
+      "url": "https://subrostunnel.vercel.app/gen.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-144",
@@ -1805,79 +1806,74 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-147",
-      "url": "https://alley.serv00.net/other"
+      "url": "https://alley.serv00.net/other",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-149",
-      "url": "https://gistpad.com/raw/lumar-vpn-all-tg-reverse-engineer-s-basement"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-150",
-      "url": "https://raw.githubusercontent.com/StealthNetVPN/StealthNet/refs/heads/main/StealthNetVPN"
+      "url": "https://gistpad.com/raw/lumar-vpn-all-tg-reverse-engineer-s-basement",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-151",
-      "url": "https://raw.githubusercontent.com/Mihuil121/vpn-checker-backend-fox/main/checked/My_Euro/euro_black.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-152",
-      "url": "https://raw.githubusercontent.com/ArtemAfonasyev/hentai-goida-subscription/refs/heads/main/subscription.txt"
+      "url": "https://raw.githubusercontent.com/Mihuil121/vpn-checker-backend-fox/main/checked/My_Euro/euro_black.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-153",
       "url": "https://raw.githubusercontent.com/ewecrow78-gif/whitelist1/main/list.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-154",
-      "url": "https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/wifi"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-156",
-      "url": "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/OutlineVPN%2FOutlineVPN.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-158",
-      "url": "https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt"
+      "url": "https://raw.githubusercontent.com/luxxuria/harvester/refs/heads/main/non_ru.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-159",
       "url": "https://raw.githubusercontent.com/Maskkost93/kizyak-vpn-4.0/refs/heads/main/kizyakbeta7.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-160",
-      "url": "https://raw.githubusercontent.com/opti4riponty-arch/VLESS-Co/refs/heads/main/VLESS%20%26%20Co"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-161",
-      "url": "https://gitverse.ru/api/repos/flaafix/AetrisVPN/raw/branch/master/AetrisVPN.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-162",
-      "url": "https://storage.googleapis.com/fptn.org/index.html"
+      "url": "https://storage.googleapis.com/fptn.org/index.html",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-163",
-      "url": "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/34.txt"
+      "url": "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/34.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-164",
-      "url": "https://gl.gosapi.com/sub/s_j0kr2PjW0Eow95?providerid=ZOth3lct"
+      "url": "https://gl.gosapi.com/sub/s_j0kr2PjW0Eow95?providerid=ZOth3lct",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-165",
-      "url": "https://sub.new-meme-connet.ru/f088b6f27"
+      "url": "https://sub.new-meme-connet.ru/f088b6f27",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-166",
-      "url": "https://app.proxy-slon.shop/v1/service/sub/e754770b-a24c-4093-920a-a22d10b24f75"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-167",
-      "url": "https://translate.yandex.ru/translate?url=https://raw.githubusercontent.com/v0id9/vpn-configs/refs/heads/main/vpn.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-168",
-      "url": "https://app.proxy-slon.shop/v1/service/sub/eb73dd50-2e6d-447b-baa9-ed6efc81940c"
+      "url": "https://app.proxy-slon.shop/v1/service/sub/e754770b-a24c-4093-920a-a22d10b24f75",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-169",
@@ -1885,59 +1881,94 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-170",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/hy2.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/hy2.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-171",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/ss.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/ss.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-172",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/trojan.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/trojan.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-173",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/vless.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-174",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/vmess.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/refs/heads/main/Splitted-By-Protocol/vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-175",
-      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/VMESS-DukeMehdi-Configs.txt"
+      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/VMESS-DukeMehdi-Configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-176",
-      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/TROJAN-DukeMehdi-Configs.txt"
+      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/TROJAN-DukeMehdi-Configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-177",
-      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/SS-DukeMehdi-Configs.txt"
+      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/refs/heads/main/Configs/SS-DukeMehdi-Configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-178",
-      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/v2ray.txt"
+      "url": "https://raw.githubusercontent.com/ermaozi/get_subscribe/refs/heads/main/subscribe/v2ray.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-179",
-      "url": "https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/all_configs.txt"
+      "url": "https://raw.githubusercontent.com/Argh73/V2Ray-Vault/refs/heads/main/data/sub/all_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-180",
-      "url": "https://raw.githubusercontent.com/kingowow/Kingo-vpn/refs/heads/main/merged_config.txt"
+      "url": "https://raw.githubusercontent.com/kingowow/Kingo-vpn/refs/heads/main/merged_config.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-181",
-      "url": "https://raw.githubusercontent.com/redfree8/config-fetcher/refs/heads/main/configs/proxy_configs.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-182",
-      "url": "https://gist.githubusercontent.com/pidarasuebisov-afk/e220b44264242d1a97c0908aba091edd/raw/PKN%20cocnyL"
+      "url": "https://raw.githubusercontent.com/redfree8/config-fetcher/refs/heads/main/configs/proxy_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-183",
-      "url": "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt"
+      "url": "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-08T06:21:40Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-184",
@@ -1996,10 +2027,6 @@
       "url": "https://cyb-portal.com/CP-009"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-200",
-      "url": "https://cyb-portal.com/CP-010"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-201",
       "url": "https://cyb-portal.com/CP-012"
     },
@@ -2028,10 +2055,6 @@
       "url": "https://cyb-portal.com/CP-018"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-208",
-      "url": "https://cyb-portal.com/CP-019"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-209",
       "url": "https://cyb-portal.com/CP-020"
     },
@@ -2042,10 +2065,6 @@
     {
       "name": "gh-whoahaow-rjsxrd-sub-211",
       "url": "https://cyb-portal.com/CP-022"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-212",
-      "url": "https://cyb-portal.com/CP-023"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-213",
@@ -2080,20 +2099,8 @@
       "url": "https://cyb-portal.com/CP-032"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-221",
-      "url": "https://cyb-portal.com/CP-033"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-222",
       "url": "https://cyb-portal.com/CP-034"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-223",
-      "url": "https://cyb-portal.com/CP-036"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-224",
-      "url": "https://cyb-portal.com/CP-037"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-225",
@@ -2102,14 +2109,6 @@
     {
       "name": "gh-whoahaow-rjsxrd-sub-226",
       "url": "https://cyb-portal.com/CP-041"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-227",
-      "url": "https://cyb-portal.com/CP-043"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-228",
-      "url": "https://cyb-portal.com/CP-044"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-229",
@@ -2126,10 +2125,6 @@
     {
       "name": "gh-whoahaow-rjsxrd-sub-232",
       "url": "https://raw.githubusercontent.com/zieng2/wl/main/vless_lite.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-233",
-      "url": "https://raw.githubusercontent.com/55prosek-lgtm/vpn_config_for_russia/refs/heads/main/whitelist.txt"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-234",
@@ -2156,24 +2151,8 @@
       "url": "https://raw.githubusercontent.com/FLEXIY0/matryoshka-vpn/refs/heads/main/configs/russia_whitelist.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-241",
-      "url": "https://gitverse.ru/api/repos/Vsevj/OBS/raw/branch/master/wwh"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-242",
-      "url": "https://fsub.flux.2bd.net/githubmirror/bypass/bypass-all.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-243",
       "url": "https://ger.ufavpn.ru/sub/VWZhVlBOODMxMzY2ODUxMiwxNzcxMTU2ODY2VQLdohdeRM"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-244",
-      "url": "https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-245",
-      "url": "https://raw.githubusercontent.com/SilentGhostCodes/WhiteListVpn/refs/heads/main/Whitelist%20%E2%84%962.txt"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-246",
@@ -2206,10 +2185,6 @@
     {
       "name": "gh-whoahaow-rjsxrd-sub-256",
       "url": "https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-257",
-      "url": "https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-258",
