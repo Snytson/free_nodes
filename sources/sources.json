@@ -1407,15 +1407,24 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-28",
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashmeta.txt"
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashmeta.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-29",
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashnode.txt"
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashnode.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-30",
-      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashstair.txt"
+      "url": "https://raw.githubusercontent.com/Barabama/FreeNodes/refs/heads/feat/ai-crawler-v2/nodes/clashstair.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-31",
@@ -2250,63 +2259,108 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-259",
-      "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2"
+      "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/hysteria2",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-260",
-      "url": "http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b"
+      "url": "http://livpn.atwebpages.com/sub.php?token=c829c20769d2112b",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-261",
-      "url": "https://simchin.online/sub/?secret=2GQ65ZNLcNTHl830FxQR0uWq%2F%2FggN9wXb0zfwSSgwHEctU6RmjRqBVW%2BjE%2F9fQQUSoU%3D"
+      "url": "https://simchin.online/sub/?secret=2GQ65ZNLcNTHl830FxQR0uWq%2F%2FggN9wXb0zfwSSgwHEctU6RmjRqBVW%2BjE%2F9fQQUSoU%3D",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-264",
-      "url": "https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
+      "url": "https://raw.githubusercontent.com/GoldCaviar/vpn-configs-for-russia/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-267",
-      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt"
+      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-268",
-      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-all.txt"
+      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-all.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-269",
-      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-checked.txt"
+      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-CIDR-RU-checked.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-270",
-      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-SNI-RU-all.txt"
+      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/WHITE-SNI-RU-all.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-271",
-      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/BLACK_VLESS_RUS.txt"
+      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/BLACK_VLESS_RUS.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-272",
-      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/BLACK_SS%2BAll_RUS.txt"
+      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/BLACK_SS%2BAll_RUS.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-273",
-      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
+      "url": "https://raw.githubusercontent.com/Kirillo4ka/eavevpn-configs/refs/heads/main/BLACK_VLESS_RUS_mobile.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-274",
-      "url": "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt"
+      "url": "https://gitverse.ru/api/repos/bywarm/rser/raw/branch/master/wl.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-276",
-      "url": "https://gitflic.ru/project/sigil/my-new-cool-project/blob/raw?file=whitelist"
+      "url": "https://gitflic.ru/project/sigil/my-new-cool-project/blob/raw?file=whitelist",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-279",
-      "url": "https://raw.githubusercontent.com/LimeHi/LimeVPNGenerator/main/Keys.txt?v=1"
+      "url": "https://raw.githubusercontent.com/LimeHi/LimeVPNGenerator/main/Keys.txt?v=1",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-280",
-      "url": "https://rostunnel.vercel.app/mega.txt"
+      "url": "https://rostunnel.vercel.app/mega.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-281",
@@ -2314,35 +2368,52 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-286",
-      "url": "https://raw.githubusercontent.com/mbelspb-gif/russianwingXD/refs/heads/main/Test"
+      "url": "https://raw.githubusercontent.com/mbelspb-gif/russianwingXD/refs/heads/main/Test",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-287",
-      "url": "https://raw.githubusercontent.com/mbelspb-gif/ffsfsfssdf/refs/heads/main/TG-swordware"
+      "url": "https://raw.githubusercontent.com/mbelspb-gif/ffsfsfssdf/refs/heads/main/TG-swordware",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-288",
-      "url": "https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/Svoboda"
+      "url": "https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/Svoboda",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-290",
-      "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/refs/heads/main/all_configs.txt"
+      "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/refs/heads/main/all_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-295",
-      "url": "https://raw.githubusercontent.com/mmaksim9191/my-vpn-configs/refs/heads/main/configs/mobile-whitelist-1.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-296",
-      "url": "https://raw.githubusercontent.com/mmaksim9191/my-vpn-configs/refs/heads/main/configs/white-cidr-checked.txt"
+      "url": "https://raw.githubusercontent.com/mmaksim9191/my-vpn-configs/refs/heads/main/configs/mobile-whitelist-1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-297",
-      "url": "https://ewecrow78-gif.github.io/htmlWhiteList/"
+      "url": "https://ewecrow78-gif.github.io/htmlWhiteList/",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-298",
-      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt"
+      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-09T06:29:57Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-303",
