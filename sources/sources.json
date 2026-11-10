@@ -167,7 +167,10 @@
     },
     {
       "name": "xrayvip-free",
-      "url": "https://www.xrayvip.com/free.txt"
+      "url": "https://www.xrayvip.com/free.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "trojanvmess-cmcm-b64",
@@ -355,7 +358,10 @@
     },
     {
       "name": "solispirit-solvpn",
-      "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt"
+      "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "surfboardv2ray-tgparse",
@@ -378,7 +384,10 @@
     },
     {
       "name": "wlget-v2ray_configs_64",
-      "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt"
+      "url": "https://raw.githubusercontent.com/WLget/V2Ray_configs_64/refs/heads/master/ConfigSub_list.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "yawstar-proxy-hunter",
@@ -547,7 +556,10 @@
     },
     {
       "name": "mehrtat-vless-collector",
-      "url": "https://raw.githubusercontent.com/mehrtat/vless-collector/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/mehrtat/vless-collector/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "miladtahanian-config-collector",
@@ -590,7 +602,10 @@
     },
     {
       "name": "patterniha-free-configs",
-      "url": "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt"
+      "url": "https://raw.githubusercontent.com/patterniha/Free-Configs/main/configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "peasoft-nomorewalls",
@@ -622,7 +637,10 @@
     },
     {
       "name": "rango-cfs-newcollector",
-      "url": "https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt"
+      "url": "https://raw.githubusercontent.com/rango-cfs/NewCollector/refs/heads/main/v2ray_links.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "sinavm-svm",
@@ -668,7 +686,10 @@
     },
     {
       "name": "shabane-kamaji-tested-merged",
-      "url": "https://raw.githubusercontent.com/shabane/kamaji/master/hub/self/tested/merged.txt"
+      "url": "https://raw.githubusercontent.com/shabane/kamaji/master/hub/self/tested/merged.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "idtheo-cleanips-shield",
@@ -948,7 +969,10 @@
     },
     {
       "name": "vpnineh-vmess",
-      "url": "https://raw.githubusercontent.com/vpnineh/configs-collector-v2ray/main/sub/protocols/vmess.txt"
+      "url": "https://raw.githubusercontent.com/vpnineh/configs-collector-v2ray/main/sub/protocols/vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-10T17:19:33Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "vpnineh-trojan",
