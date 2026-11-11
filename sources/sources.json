@@ -1653,7 +1653,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-79",
-      "url": "https://alley.serv00.net/1"
+      "url": "https://alley.serv00.net/1",
+      "disabled": true,
+      "disabled_at": "2026-11-11T17:02:45Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-80",
@@ -2124,10 +2127,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-196",
-      "url": "https://cyb-portal.com/CP-002"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-197",
       "url": "https://cyb-portal.com/CP-003",
       "disabled": true,
@@ -2226,10 +2225,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-214",
-      "url": "https://cyb-portal.com/CP-025"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-217",
       "url": "https://cyb-portal.com/CP-028",
       "disabled": true,
@@ -2263,10 +2258,6 @@
       "disabled": true,
       "disabled_at": "2026-11-08T21:16:17Z",
       "disabled_reason": "no_verified_nodes"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-226",
-      "url": "https://cyb-portal.com/CP-041"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-229",
@@ -2400,7 +2391,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-258",
-      "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless"
+      "url": "https://raw.githubusercontent.com/Leon406/SubCrawler/refs/heads/main/sub/share/vless",
+      "disabled": true,
+      "disabled_at": "2026-11-11T17:02:45Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-259",
