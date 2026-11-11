@@ -1048,7 +1048,10 @@
     },
     {
       "name": "RichTiTAN-V2rayTested-working_configs",
-      "url": "https://raw.githubusercontent.com/RichTiTAN/V2rayTested/main/working_configs.txt"
+      "url": "https://raw.githubusercontent.com/RichTiTAN/V2rayTested/main/working_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-11T06:28:07Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "ssnn20012001-bot-v2ray-sub-nodes",
@@ -1767,7 +1770,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-105",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/6.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/6.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-11T06:28:07Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-106",
@@ -2224,14 +2230,6 @@
       "url": "https://cyb-portal.com/CP-025"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-215",
-      "url": "https://cyb-portal.com/CP-026"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-216",
-      "url": "https://cyb-portal.com/CP-027"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-217",
       "url": "https://cyb-portal.com/CP-028",
       "disabled": true,
@@ -2258,10 +2256,6 @@
       "disabled": true,
       "disabled_at": "2026-11-08T21:16:17Z",
       "disabled_reason": "no_verified_nodes"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-222",
-      "url": "https://cyb-portal.com/CP-034"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-225",
