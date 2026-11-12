@@ -290,7 +290,10 @@
     },
     {
       "name": "leilaomi-automergepublicnodes-optimized",
-      "url": "https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/refs/heads/main/output/global.txt"
+      "url": "https://raw.githubusercontent.com/LeilaoMi/AutoMergePublicNodes-Optimized/refs/heads/main/output/global.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-12T07:36:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "mahankenway-pusheen-v2ray",
