@@ -1795,7 +1795,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-103",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/4.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/4.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-13T22:46:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-104",
@@ -1862,7 +1865,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-123",
-      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/24.txt"
+      "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/24.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-13T22:46:02Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-126",
