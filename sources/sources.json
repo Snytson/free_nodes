@@ -368,7 +368,10 @@
     },
     {
       "name": "surfboardv2ray-tgparse",
-      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless"
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/vless",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "thecrowcreature-v2rayextractor",
@@ -458,7 +461,10 @@
     },
     {
       "name": "damiryuldashbaev-oss-vless-de-subscription",
-      "url": "https://raw.githubusercontent.com/damiryuldashbaev-oss/vless-de-subscription/HEAD/sub_de.txt"
+      "url": "https://raw.githubusercontent.com/damiryuldashbaev-oss/vless-de-subscription/HEAD/sub_de.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "ermaozi-get_subscribe",
@@ -928,11 +934,17 @@
       "owner": "nikita29a",
       "repo": "FreeProxyList",
       "ref": "main",
-      "path_regex": "^mirror/[0-9]+\\.txt$"
+      "path_regex": "^mirror/[0-9]+\\.txt$",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "10ium-v2raycollectorlite-vless",
-      "url": "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/vless_iran.txt"
+      "url": "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/vless_iran.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "10ium-v2raycollectorlite-vmess",
@@ -1068,7 +1080,10 @@
     },
     {
       "name": "nukcrow-black-crow-sub1",
-      "url": "https://raw.githubusercontent.com/nukcrow/black-crow/main/sub/general/sub1.txt"
+      "url": "https://raw.githubusercontent.com/nukcrow/black-crow/main/sub/general/sub1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "bin1site1-V2rayFree-config",
@@ -1172,7 +1187,10 @@
     {
       "name": "gh-shaoyouvip-free-all",
       "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/all.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-aishervin-V2flair-clean-sub",
@@ -1440,7 +1458,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-24",
-      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt"
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-28",
@@ -1637,7 +1658,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-73",
-      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt"
+      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS_mobile.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-13T06:55:06Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-76",
