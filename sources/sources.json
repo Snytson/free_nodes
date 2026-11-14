@@ -2684,24 +2684,12 @@
       "url": "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/4.txt"
     },
     {
-      "name": "gh-SHAHBBBB-V2ray-collector-sub-3",
-      "url": "https://raw.githubusercontent.com/MrBihal/Channel-Hddify/refs/heads/main/MeLi-Shekan"
-    },
-    {
       "name": "gh-SHAHBBBB-V2ray-collector-sub-4",
       "url": "https://openproxylist.com/v2ray/rawlist/text"
     },
     {
       "name": "gh-SHAHBBBB-V2ray-collector-sub-5",
       "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/main/V2RAY_BASE64.txt"
-    },
-    {
-      "name": "gh-SHAHBBBB-V2ray-collector-configs",
-      "url": "https://raw.githubusercontent.com/SHAHBBBB/V2ray-collector/main/configs/configs.txt"
-    },
-    {
-      "name": "gh-SHAHBBBB-V2ray-collector-configs-2",
-      "url": "https://raw.githubusercontent.com/SHAHBBBB/V2ray-collector/main/output/configs.txt"
     },
     {
       "name": "gh-FLAT447-v2ray-lists-BLACK-FULL",
@@ -2743,10 +2731,6 @@
       "format": "clash_yaml"
     },
     {
-      "name": "gh-idtheo-V2Ray-CleanIPs-Servers-V2ray-Config-All",
-      "url": "https://raw.githubusercontent.com/idtheo/V2Ray-CleanIPs-Servers/main/archive/V2ray-Config-All.txt"
-    },
-    {
       "name": "gh-idtheo-V2Ray-CleanIPs-Servers-V2ray-Config-Small",
       "url": "https://raw.githubusercontent.com/idtheo/V2Ray-CleanIPs-Servers/main/archive/V2ray-Config-Small.txt"
     },
@@ -2760,7 +2744,10 @@
     },
     {
       "name": "gh-0xRadikal-Free-v2ray-Configs-vmess",
-      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/vmess.txt"
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/protocols/vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-pie-with-jam-PulseProxy-sub-1",
@@ -2769,18 +2756,6 @@
     {
       "name": "gh-hidooch980-molidovpn-android-shard-nodes",
       "url": "https://raw.githubusercontent.com/hidooch980/molidovpn-android/main/remote/shard-nodes.txt"
-    },
-    {
-      "name": "gh-SoliSpirit-SolVPN-sub10",
-      "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub10.txt"
-    },
-    {
-      "name": "gh-SoliSpirit-SolVPN-sub11",
-      "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub11.txt"
-    },
-    {
-      "name": "gh-SoliSpirit-SolVPN-sub12",
-      "url": "https://raw.githubusercontent.com/SoliSpirit/SolVPN/main/Subscribes/sub12.txt"
     },
     {
       "name": "gh-alireza786786-Free-V2ray-Configs-all-servers",
@@ -2988,16 +2963,6 @@
       "url": "https://raw.githubusercontent.com/rzashakeri/v2ray-configs/main/configs/vmess.txt"
     },
     {
-      "name": "gh-amir-reza-bijandi-v2ray-configs-clash",
-      "url": "https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/clash.yaml",
-      "format": "clash_yaml"
-    },
-    {
-      "name": "gh-amir-reza-bijandi-v2ray-configs-configs",
-      "url": "https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/configs.yaml",
-      "format": "clash_yaml"
-    },
-    {
       "name": "gh-Kolandone-v2raycollector-config",
       "url": "https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config.txt"
     },
@@ -3011,63 +2976,108 @@
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-1",
-      "url": "https://w1.v2free.cyou/auth/register?code=UsUP"
+      "url": "https://w1.v2free.cyou/auth/register?code=UsUP",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-1-2",
-      "url": "https://www.vultr.com/?ref=7048874"
+      "url": "https://www.vultr.com/?ref=7048874",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-2",
-      "url": "https://www.paypal.com"
+      "url": "https://www.paypal.com",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-3",
-      "url": "https://download.574981.xyz/ProxySU-v2.5.7.zip"
+      "url": "https://download.574981.xyz/ProxySU-v2.5.7.zip",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-4",
-      "url": "https://d.dtku35.xyz/ProxySU-v2.5.7.zip"
+      "url": "https://d.dtku35.xyz/ProxySU-v2.5.7.zip",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-5",
-      "url": "https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net40-offline-installer"
+      "url": "https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net40-offline-installer",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-3-2",
-      "url": "https://download.574981.xyz/Xshell_setup_wm.exe"
+      "url": "https://download.574981.xyz/Xshell_setup_wm.exe",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-4-2",
-      "url": "https://d.dtku35.xyz/Xshell_setup_wm.exe"
+      "url": "https://d.dtku35.xyz/Xshell_setup_wm.exe",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-5-2",
-      "url": "https://www.xshell.com/zh/free-for-home-school"
+      "url": "https://www.xshell.com/zh/free-for-home-school",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-6",
-      "url": "https://raw.githubusercontent.com/Alvin9999-newpac/SSR-Plus/main/ssr-plus.sh"
+      "url": "https://raw.githubusercontent.com/Alvin9999-newpac/SSR-Plus/main/ssr-plus.sh",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-7",
-      "url": "https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ss-go.sh"
+      "url": "https://raw.githubusercontent.com/ToyoDAdoubiBackup/doubi/master/ss-go.sh",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-8",
-      "url": "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh"
+      "url": "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-9",
-      "url": "https://d2.freessr2.xyz/Shadowsocks-Qt5-x86_64-v3.0.1.AppImage"
+      "url": "https://d2.freessr2.xyz/Shadowsocks-Qt5-x86_64-v3.0.1.AppImage",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-10",
-      "url": "http://port.ping.pe/91.206.93.36:12345"
+      "url": "http://port.ping.pe/91.206.93.36:12345",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alvin9999-newpac-fanqiang-sub-6-2",
-      "url": "https://raw.githubusercontent.com/Alvin9999-newpac/Sing-Box-Plus/main/sing-box-plus.sh"
+      "url": "https://raw.githubusercontent.com/Alvin9999-newpac/Sing-Box-Plus/main/sing-box-plus.sh",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-penhandev-AutoAiVPN-russia",
@@ -3080,11 +3090,6 @@
     {
       "name": "gh-HotDrify-drifyconfigs-nonsort20k",
       "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/nonsort20k.txt"
-    },
-    {
-      "name": "gh-Shayanthn-V2ray-Tester-Pro-clash",
-      "url": "https://raw.githubusercontent.com/Shayanthn/V2ray-Tester-Pro/main/subscriptions/clash.yaml",
-      "format": "clash_yaml"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-1",
@@ -3191,11 +3196,6 @@
       "url": "https://aka.ms/tsconfig"
     },
     {
-      "name": "gh-NeuralNode-Dev-neuralnode-dev-github-io-clash",
-      "url": "https://raw.githubusercontent.com/NeuralNode-Dev/neuralnode-dev.github.io/main/links/clash.yaml",
-      "format": "clash_yaml"
-    },
-    {
       "name": "gh-NeuralNode-Dev-neuralnode-dev-github-io-sub-1",
       "url": "https://cloud.yuncat.top"
     },
@@ -3206,11 +3206,6 @@
     {
       "name": "gh-NeuralNode-Dev-neuralnode-dev-github-io-sub-3",
       "url": "https://raw.githubusercontent.com/NeuralNode-Dev/NeuralNode-Dev/main/links/clash.yaml`"
-    },
-    {
-      "name": "gh-NeuralNode-Dev-clash-v2rayn-shadowrocket-clash",
-      "url": "https://raw.githubusercontent.com/NeuralNode-Dev/clash-v2rayn-shadowrocket/main/.github/links/clash.yaml",
-      "format": "clash_yaml"
     },
     {
       "name": "gh-peasoft-NoMoreWalls-sub-1",
@@ -3300,19 +3295,31 @@
     },
     {
       "name": "gh-Andrejewild-youtube-discord-vless-2026-sub",
-      "url": "https://raw.githubusercontent.com/Andrejewild/youtube-discord-vless-2026/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/Andrejewild/youtube-discord-vless-2026/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Andrejewild-hiddify-singbox-configs-ru-sub",
-      "url": "https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/Andrejewild/hiddify-singbox-configs-ru/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Andrejewild-bypass-whitelist-vpn-sub",
-      "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/Andrejewild/bypass-whitelist-vpn/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Andrejewild-happ-v2rayng-configs-sub",
-      "url": "https://raw.githubusercontent.com/Andrejewild/happ-v2rayng-configs/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/Andrejewild/happ-v2rayng-configs/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Surfboardv2ray-Proxy-sorter-IR",
@@ -3327,28 +3334,18 @@
       "url": "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt"
     },
     {
-      "name": "gh-Surfboardv2ray-Proxy-sorter-all",
-      "url": "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/xray/configs/raw-url/all.txt"
-    },
-    {
       "name": "gh-Andrejewild-vless-free-keys-russia-sub",
-      "url": "https://raw.githubusercontent.com/Andrejewild/vless-free-keys-russia/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/Andrejewild/vless-free-keys-russia/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Andrejewild-megavpn-russia-official-sub",
-      "url": "https://raw.githubusercontent.com/Andrejewild/megavpn-russia-official/main/sub.txt"
-    },
-    {
-      "name": "gh-Arefgh72-v2ray-proxy-pars-sub-1",
-      "url": "https://raw.githubusercontent.com/ShadowException/VPN/main/configs/VPN-cat"
-    },
-    {
-      "name": "gh-Arefgh72-v2ray-proxy-pars-sub-2",
-      "url": "https://gitverse.ru/api/repos/ru-wbl/wl/raw/branch/master/KvRuVPN%2FKvRuVPN.txt"
-    },
-    {
-      "name": "gh-Arefgh72-v2ray-proxy-pars-sub-4",
-      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/main/vless.html"
+      "url": "https://raw.githubusercontent.com/Andrejewild/megavpn-russia-official/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Arefgh72-v2ray-proxy-pars-sub-5",
@@ -3356,11 +3353,17 @@
     },
     {
       "name": "gh-Arefgh72-v2ray-proxy-pars-v2ray-config",
-      "url": "https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars/main/output/v2ray_config.txt"
+      "url": "https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars/main/output/v2ray_config.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Arefgh72-v2ray-proxy-pars-raw-proxies",
-      "url": "https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars/main/output/raw_proxies.txt"
+      "url": "https://raw.githubusercontent.com/Arefgh72/v2ray-proxy-pars/main/output/raw_proxies.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-mohammadaz2-v2rayConfigsForYou-trojan",
@@ -3643,20 +3646,12 @@
       "url": "https://raw.githubusercontent.com/mrdevmohamed/v2ray-configs/main/Sub2.txt"
     },
     {
-      "name": "gh-hidooch980-molidovpn-shard-nodes",
-      "url": "https://raw.githubusercontent.com/hidooch980/molidovpn/main/android-app/remote/shard-nodes.txt"
-    },
-    {
       "name": "gh-hidooch980-molidovpn-sub-1",
       "url": "https://www.vpnjantit.com/free-ikev2"
     },
     {
       "name": "gh-hidooch980-molidovpn-sub-2",
       "url": "https://www.vpnjantit.com/create-free-account?server=bd2&type=IKEV2"
-    },
-    {
-      "name": "gh-hidooch980-molidovpn-shard-seed",
-      "url": "https://raw.githubusercontent.com/hidooch980/molidovpn/main/android-app/app/src/main/assets/shard-seed.txt"
     },
     {
       "name": "gh-MaxFreudDrethe-VCC-trojan",
@@ -3736,10 +3731,6 @@
       "url": "https://raw.githubusercontent.com/teknovpnhub/v2ray-subscription/main/subscriptions/akram.hajalilu.txt"
     },
     {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-3",
-      "url": "http://weoknow.com/data/dayupdate/1/z1.txt"
-    },
-    {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-4",
       "url": "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt"
     },
@@ -3760,36 +3751,15 @@
       "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/vmess"
     },
     {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-11",
-      "url": "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/default.txt"
-    },
-    {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-12",
-      "url": "https://raw.githubusercontent.com/ndsphonemy/proxy-sub/main/speed.txt"
-    },
-    {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-14",
-      "url": "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/ss_iran.txt"
-    },
-    {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-16",
-      "url": "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vmess_iran.txt"
-    },
-    {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-17",
-      "url": "https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/vless_iran.txt"
-    },
-    {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-19",
-      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity.txt"
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/Eternity.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-14T21:21:47Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-22",
       "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt"
-    },
-    {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-23",
-      "url": "https://raw.githubusercontent.com/w1770946466/Auto_proxy/main/Long_term_subscription_num"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-24",
