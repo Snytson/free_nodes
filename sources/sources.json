@@ -278,10 +278,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "hidashimora-free-vpn-anti-rkn",
-      "url": "https://raw.githubusercontent.com/Hidashimora/free-vpn-anti-rkn/main/configs/13.2.txt"
-    },
-    {
       "name": "lalatinahub-mineral",
       "url": "https://raw.githubusercontent.com/LalatinaHub/Mineral/refs/heads/master/result/nodes",
       "disabled": true,
@@ -2419,7 +2415,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-253",
-      "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/refs/heads/main/sub"
+      "url": "https://raw.githubusercontent.com/ripaojiedian/freenode/refs/heads/main/sub",
+      "disabled": true,
+      "disabled_at": "2026-11-14T06:34:01Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-256",
