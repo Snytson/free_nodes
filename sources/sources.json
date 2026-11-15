@@ -2699,17 +2699,26 @@
     {
       "name": "gh-FLAT447-v2ray-lists-BLACK-LTE",
       "url": "https://raw.githubusercontent.com/FLAT447/v2ray-lists/main/CLASH/BLACK_LTE.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-FLAT447-v2ray-lists-WHITE-FULL",
       "url": "https://raw.githubusercontent.com/FLAT447/v2ray-lists/main/CLASH/WHITE_FULL.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-FLAT447-v2ray-lists-WHITE-LITE",
       "url": "https://raw.githubusercontent.com/FLAT447/v2ray-lists/main/CLASH/WHITE_LITE.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Mehrdad-GH-V2ray-sub-sub",
@@ -2731,16 +2740,8 @@
       "format": "clash_yaml"
     },
     {
-      "name": "gh-idtheo-V2Ray-CleanIPs-Servers-V2ray-Config-Small",
-      "url": "https://raw.githubusercontent.com/idtheo/V2Ray-CleanIPs-Servers/main/archive/V2ray-Config-Small.txt"
-    },
-    {
       "name": "gh-idtheo-V2Ray-CleanIPs-Servers-sub-1",
       "url": "https://free-sub.indevs.in"
-    },
-    {
-      "name": "gh-idtheo-V2Ray-CleanIPs-Servers-V2ray-Config-Full",
-      "url": "https://raw.githubusercontent.com/idtheo/V2Ray-CleanIPs-Servers/main/archive/V2ray-Config-Full.txt"
     },
     {
       "name": "gh-0xRadikal-Free-v2ray-Configs-vmess",
@@ -2964,11 +2965,17 @@
     },
     {
       "name": "gh-Kolandone-v2raycollector-config",
-      "url": "https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config.txt"
+      "url": "https://raw.githubusercontent.com/Kolandone/v2raycollector/main/config.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Kolandone-v2raycollector-trojan",
-      "url": "https://raw.githubusercontent.com/Kolandone/v2raycollector/main/trojan.txt"
+      "url": "https://raw.githubusercontent.com/Kolandone/v2raycollector/main/trojan.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Kolandone-v2raycollector-vless",
@@ -3085,11 +3092,17 @@
     },
     {
       "name": "gh-HotDrify-drifyconfigs-sub",
-      "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/sub.txt"
+      "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-HotDrify-drifyconfigs-nonsort20k",
-      "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/nonsort20k.txt"
+      "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/nonsort20k.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-1",
@@ -3386,28 +3399,12 @@
       "url": "https://raw.githubusercontent.com/nyeinkokoaung404/V2ray-Configs/main/Sub2.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-316",
-      "url": "https://mifa.world/turbo"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-317",
       "url": "https://raw.githubusercontent.com/kort0881/vpn-checker-backend/main/checked/RU_Best/ru_white_all_part2.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-318",
-      "url": "https://raw.githubusercontent.com/ArtemAfonasyev/hentai-goida-subscription/refs/heads/main/subscription-ru.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-319",
-      "url": "https://raw.githubusercontent.com/AirLinkVPN1/AirLinkVPN/refs/heads/main/rkn_white_list"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-320",
       "url": "https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-321",
-      "url": "https://raw.githubusercontent.com/Temnuk/naabuzil/refs/heads/main/whitelist_full"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-322",
@@ -3422,10 +3419,6 @@
       "url": "https://raw.githubusercontent.com/vsvavan2/vpn-config-rkn/refs/heads/main/output/WHITE_CIDR_RU_checked_working.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-325",
-      "url": "https://raw.githubusercontent.com/vsvavan2/vpn-config-rkn/refs/heads/main/output/WHITE_Reality_Mobile_2_working.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-326",
       "url": "https://gitverse.ru/RUVIPIEN/russian-white-bolt"
     },
@@ -3434,16 +3427,8 @@
       "url": "https://subs.neverspy.tech/LKyRAuYKBpFx1ksQ"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-328",
-      "url": "https://gitverse.ru/api/repos/kfwlru/sub/raw/branch/main/212.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-329",
       "url": "https://vpn.akres.fun/all"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-330",
-      "url": "https://gitverse.ru/api/repos/nloverx/EtoNeYa_Subs/raw/branch/master/whitelist"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-331",
@@ -3452,10 +3437,6 @@
     {
       "name": "gh-whoahaow-rjsxrd-sub-332",
       "url": "https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/26.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-333",
-      "url": "https://gitverse.ru/api/repos/cid-uskoritel/cid-white/raw/branch/master/whitelist.txt"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-334",
@@ -3470,18 +3451,6 @@
       "url": "https://yax.nenadoblokirowatgnidda.ru/exec?url=http%3A%2F%2F77.110.104.181%3A5002%2Fsub%2FdGd0Z3RndGcsMTc4NjUwOTI3MQtw1cqFkv06"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-337",
-      "url": "https://mifa.world/bit"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-338",
-      "url": "https://raw.githubusercontent.com/miuilore/parsing-vless/refs/heads/main/wln"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-339",
-      "url": "https://mifa.world/axe"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-340",
       "url": "https://is.wepogp.gay/bypass-hwid-lock-3z5O6BFAaJQzGlamvtSo?payload=y98cOeizXhHE4bkGbE31zlxJd03nbc51zjc9ukuFlEF/fdVVJlBgtglt9oFaUhMLvjyHc77NUQ8J2W6ip43WGvDKOrpqeyekg6zgCtaNcyBGPAnqZYzW9yGONhdQhzqU"
     },
@@ -3494,16 +3463,8 @@
       "url": "https://raw.githubusercontent.com/misha12333211-ctrl/v2ray-aggregator-for-russia/refs/heads/main/sub.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-347",
-      "url": "https://gist.githubusercontent.com/SlavaKat/2d75a18830db8315ee79d58f5ee62e30/raw/"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-348",
       "url": "https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-349",
-      "url": "https://mifa.world/tetra"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-350",
@@ -3514,20 +3475,12 @@
       "url": "https://raw.githubusercontent.com/kafka-def/kafka-sub/refs/heads/main/subscription.txt"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-352",
-      "url": "https://raw.githubusercontent.com/bskertt-cmd/vpn-has/refs/heads/main/keys.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-353",
       "url": "https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/LTE%20Sub"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-354",
       "url": "https://raw.githubusercontent.com/xolirx/list-check/refs/heads/main/Black%20Sub"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-355",
-      "url": "https://raw.githubusercontent.com/free1zona/Keyfreetee/refs/heads/main/razlo4ka7"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-356",
@@ -3538,32 +3491,8 @@
       "url": "https://raw.githubusercontent.com/yarikdron01-beep/Key-for-vpnFR/refs/heads/main/S-LTE%20configs"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-358",
-      "url": "https://raw.githubusercontent.com/yarikdron01-beep/Key-for-vpnFR/refs/heads/main/Key%20for%20S-WIFI"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-359",
-      "url": "https://cyb-portal.com/CP-006"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-360",
-      "url": "https://cyb-portal.com/CP-007"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-361",
       "url": "https://cyb-portal.com/CP-008"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-362",
-      "url": "https://cyb-portal.com/CP-011"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-363",
-      "url": "https://cyb-portal.com/CP-031"
-    },
-    {
-      "name": "gh-whoahaow-rjsxrd-sub-364",
-      "url": "https://cyb-portal.com/CP-035"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-365",
@@ -3710,10 +3639,6 @@
       "url": "https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/main/sub/speed-andishe.txt"
     },
     {
-      "name": "gh-sorenadev-dev-v2rayCollector-speed-cloudzy",
-      "url": "https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/main/sub/speed-cloudzy.txt"
-    },
-    {
       "name": "gh-sorenadev-dev-v2rayCollector-tcp-andishe",
       "url": "https://raw.githubusercontent.com/sorenadev-dev/v2rayCollector/main/sub/tcp-andishe.txt"
     },
@@ -3727,28 +3652,39 @@
       "format": "clash_yaml"
     },
     {
-      "name": "gh-teknovpnhub-v2ray-subscription-akram-hajalilu",
-      "url": "https://raw.githubusercontent.com/teknovpnhub/v2ray-subscription/main/subscriptions/akram.hajalilu.txt"
-    },
-    {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-4",
-      "url": "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt"
+      "url": "https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/sub/splitted/vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-6",
-      "url": "https://raw.githubusercontent.com/shabane/kamaji/master/hub/IR.txt"
+      "url": "https://raw.githubusercontent.com/shabane/kamaji/master/hub/IR.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-7",
-      "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt"
+      "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Iran.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-8",
-      "url": "https://raw.githubusercontent.com/LonUp/NodeList/main/Clash/Node/Latest.yaml"
+      "url": "https://raw.githubusercontent.com/LonUp/NodeList/main/Clash/Node/Latest.yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-9",
-      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/vmess"
+      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/vmess",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-19",
@@ -3759,55 +3695,94 @@
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-22",
-      "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt"
+      "url": "https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/server.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-24",
-      "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt"
+      "url": "https://raw.githubusercontent.com/roosterkid/openproxylist/refs/heads/main/V2RAY_RAW.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-25",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_base64_Sub.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-Config/refs/heads/main/All_Configs_base64_Sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-26",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no1.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-27",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no2.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-28",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no3.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no3.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-29",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no4.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no4.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-30",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no5.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-31",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no6.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no6.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-32",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no7.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-33",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no8.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no8.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-34",
-      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt"
+      "url": "https://raw.githubusercontent.com/V2RAYCONFIGSPOOL/V2RAY_SUB/refs/heads/main/v2ray_configs_no9.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-39",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T06:35:08Z",
+      "disabled_reason": "no_verified_nodes"
     }
   ]
 }
