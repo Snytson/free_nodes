@@ -2800,15 +2800,24 @@
     },
     {
       "name": "gh-alireza786786-Free-V2ray-Configs-ss-servers",
-      "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ss_servers.txt"
+      "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/servers/ss_servers.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-T3stAcc-V2Ray-All-Configs-Sub",
-      "url": "https://raw.githubusercontent.com/T3stAcc/V2Ray/main/All_Configs_Sub.txt"
+      "url": "https://raw.githubusercontent.com/T3stAcc/V2Ray/main/All_Configs_Sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-T3stAcc-V2Ray-trojan",
-      "url": "https://raw.githubusercontent.com/T3stAcc/V2Ray/main/Splitted-By-Protocol/trojan.txt"
+      "url": "https://raw.githubusercontent.com/T3stAcc/V2Ray/main/Splitted-By-Protocol/trojan.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-T3stAcc-V2Ray-vless",
@@ -2955,11 +2964,17 @@
     {
       "name": "gh-ZendanTeam-SS44-sub-SS44-clash",
       "url": "https://raw.githubusercontent.com/ZendanTeam/SS44-sub/main/SS44-clash.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-ZendanTeam-SS44-sub-SS44-gold",
-      "url": "https://raw.githubusercontent.com/ZendanTeam/SS44-sub/main/SS44-gold.txt"
+      "url": "https://raw.githubusercontent.com/ZendanTeam/SS44-sub/main/SS44-gold.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-sinavm-SVM-config",
@@ -3154,59 +3169,101 @@
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-1",
-      "url": "https://f2.st0103.top/7"
+      "url": "https://f2.st0103.top/7",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-2",
-      "url": "https://f2.st0103.top/3"
+      "url": "https://f2.st0103.top/3",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-3",
-      "url": "https://bby009.com/"
+      "url": "https://bby009.com/",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-4",
-      "url": "https://f2.st0103.top/4"
+      "url": "https://f2.st0103.top/4",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-5",
-      "url": "https://f2.st0103.top/5"
+      "url": "https://f2.st0103.top/5",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-1-2",
-      "url": "https://v2.hysteria.network/zh"
+      "url": "https://v2.hysteria.network/zh",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-3-2",
-      "url": "https://final.riolu.icu/"
+      "url": "https://final.riolu.icu/",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-4-2",
-      "url": "https://paoluz.link/"
+      "url": "https://paoluz.link/",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-5-2",
-      "url": "https://www.xiaoliyu.me/"
+      "url": "https://www.xiaoliyu.me/",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-1-3",
-      "url": "https://v2raya.net/install/install_v2rayA.html"
+      "url": "https://v2raya.net/install/install_v2rayA.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-2-2",
-      "url": "https://v2raya.net/manual/use-other-core.html"
+      "url": "https://v2raya.net/manual/use-other-core.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-3-3",
-      "url": "https://v2raya.net/recommen/v2ray_node_recommendations.html"
+      "url": "https://v2raya.net/recommen/v2ray_node_recommendations.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-4-3",
-      "url": "https://v2raya.net/recommendation/"
+      "url": "https://v2raya.net/recommendation/",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-5-3",
-      "url": "https://v2raya.net/manual/address-port.html"
+      "url": "https://v2raya.net/manual/address-port.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-6",
@@ -3214,19 +3271,31 @@
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-1-4",
-      "url": "https://v2raya.net/install/macos.html"
+      "url": "https://v2raya.net/install/macos.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-2-3",
-      "url": "https://v2raya.net/install/windows.html"
+      "url": "https://v2raya.net/install/windows.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-3-4",
-      "url": "https://v2raya.net/install/alpine.html"
+      "url": "https://v2raya.net/install/alpine.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-4-4",
-      "url": "https://v2raya.net/install/archlinux.html"
+      "url": "https://v2raya.net/install/archlinux.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-5-4",
@@ -3250,7 +3319,10 @@
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-10",
-      "url": "https://v2raya.net/install/linux.html"
+      "url": "https://v2raya.net/install/linux.html",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-LalatinaHub-Mineral-sub-1",
@@ -3410,7 +3482,10 @@
     },
     {
       "name": "gh-Surfboardv2ray-Proxy-sorter-converted",
-      "url": "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt"
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/Proxy-sorter/main/submerge/converted.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-15T21:49:53Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Andrejewild-vless-free-keys-russia-sub",
@@ -3676,14 +3751,6 @@
     {
       "name": "gh-iamiralpha-v2ray-desk-sub-1",
       "url": "https://raw.githubusercontent.com/iamiralpha/v2ray-desk/main/install-online.sh"
-    },
-    {
-      "name": "gh-TheHunterX-oneforallhub-v2ray-configs-auto-subscription",
-      "url": "https://raw.githubusercontent.com/TheHunterX/oneforallhub-v2ray-configs/main/auto-subscription.txt"
-    },
-    {
-      "name": "gh-TheHunterX-oneforallhub-v2ray-configs-fast-subscription",
-      "url": "https://raw.githubusercontent.com/TheHunterX/oneforallhub-v2ray-configs/main/fast-subscription.txt"
     },
     {
       "name": "gh-sg-scale-v2ray-core-v4-31-0-sub-1",
