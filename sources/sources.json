@@ -2664,7 +2664,10 @@
     },
     {
       "name": "gh-mirrorrepomagic-free-v2ray-public-list-V2Ray-Config-By-EbraSha",
-      "url": "https://raw.githubusercontent.com/mirrorrepomagic/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha.txt"
+      "url": "https://raw.githubusercontent.com/mirrorrepomagic/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-mirrorrepomagic-free-v2ray-public-list-trojan-configs",
@@ -2726,7 +2729,10 @@
     {
       "name": "gh-FLAT447-v2ray-lists-BLACK-FULL",
       "url": "https://raw.githubusercontent.com/FLAT447/v2ray-lists/main/CLASH/BLACK_FULL.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-FLAT447-v2ray-lists-BLACK-LTE",
@@ -2764,12 +2770,18 @@
     {
       "name": "gh-jingjiangze-node-radar-clash-lite",
       "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-jingjiangze-node-radar-clash-verified",
       "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-verified.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-idtheo-V2Ray-CleanIPs-Servers-sub-1",
@@ -2852,31 +2864,52 @@
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-3",
-      "url": "https://cdn-40.triplebit.dev/aif5ohWa4aWiephu"
+      "url": "https://cdn-40.triplebit.dev/aif5ohWa4aWiephu",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-4",
-      "url": "https://x7t2qctb.xoomlia.com/qzxrtfmu/"
+      "url": "https://x7t2qctb.xoomlia.com/qzxrtfmu/",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-5",
-      "url": "https://cyberspace.rest/r5DN8hUb7tq1gPuoLtxDdrBk"
+      "url": "https://cyberspace.rest/r5DN8hUb7tq1gPuoLtxDdrBk",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-6",
-      "url": "https://cdn-130.triplebit.dev/3b4c2d5e6f7g8h9i0j1k2l3m"
+      "url": "https://cdn-130.triplebit.dev/3b4c2d5e6f7g8h9i0j1k2l3m",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-7",
-      "url": "https://usa.bulger.au/7gBqm1jbTOpU0jLV91IZHN0f"
+      "url": "https://usa.bulger.au/7gBqm1jbTOpU0jLV91IZHN0f",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-8",
-      "url": "https://encyclical.org/3UhGoU2otI1enSBtW8l4inE0"
+      "url": "https://encyclical.org/3UhGoU2otI1enSBtW8l4inE0",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-9",
-      "url": "https://wedo.cyou/4fdDGGRIMtLFi2bmq4rxLbti"
+      "url": "https://wedo.cyou/4fdDGGRIMtLFi2bmq4rxLbti",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-10",
@@ -2957,35 +2990,59 @@
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-21",
-      "url": "https://kabel.entreri.de/YXbp1dNrJeOF8giAFFYWxvmf"
+      "url": "https://kabel.entreri.de/YXbp1dNrJeOF8giAFFYWxvmf",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-22",
-      "url": "https://bridge.baby/BxAgfOKz0jrrDCfHgLTyQ3d0"
+      "url": "https://bridge.baby/BxAgfOKz0jrrDCfHgLTyQ3d0",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-23",
-      "url": "https://cdn-38.triplebit.dev/Bai8aXeiPhar5gai"
+      "url": "https://cdn-38.triplebit.dev/Bai8aXeiPhar5gai",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-24",
-      "url": "https://dsl.one.pl/X7yJZdFkZTGdQkMMclV4qdVz"
+      "url": "https://dsl.one.pl/X7yJZdFkZTGdQkMMclV4qdVz",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-25",
-      "url": "https://cdn-45.triplebit.dev/yaux5diphu8Meiqu"
+      "url": "https://cdn-45.triplebit.dev/yaux5diphu8Meiqu",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-26",
-      "url": "https://2rg94buxxjsr3mps.myfritz.net/webtunnel-secret-c88aa1d074e37cadd3f6c7f1"
+      "url": "https://2rg94buxxjsr3mps.myfritz.net/webtunnel-secret-c88aa1d074e37cadd3f6c7f1",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-27",
-      "url": "https://0016100.xyz/o0uXxHSvpyHlz6bhmT9bx90U"
+      "url": "https://0016100.xyz/o0uXxHSvpyHlz6bhmT9bx90U",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-28",
-      "url": "https://app04.oneclickhost.eu/dLHKfx5cEep0SWfJCLQqIBGF"
+      "url": "https://app04.oneclickhost.eu/dLHKfx5cEep0SWfJCLQqIBGF",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Romaxa55-MegaV-Public-trojan",
@@ -2996,7 +3053,10 @@
     },
     {
       "name": "gh-Romaxa55-MegaV-Public-vless",
-      "url": "https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/vless.txt"
+      "url": "https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Romaxa55-MegaV-Public-vmess",
@@ -3735,19 +3795,31 @@
     },
     {
       "name": "gh-longlon-v2ray-config-Sub1",
-      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub1.txt"
+      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub1.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-longlon-v2ray-config-Sub10",
-      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub10.txt"
+      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub10.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-longlon-v2ray-config-Sub11",
-      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub11.txt"
+      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub11.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-longlon-v2ray-config-Sub12",
-      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub12.txt"
+      "url": "https://raw.githubusercontent.com/longlon/v2ray-config/main/Sub12.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-mrdevmohamed-v2ray-configs-All-Configs-Sub",
@@ -3801,10 +3873,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "gh-masoodghn-v2ray-sub-sub",
-      "url": "https://raw.githubusercontent.com/masoodghn/v2ray-sub/main/sub.txt"
-    },
-    {
       "name": "gh-TelegaVPN-free-vpn-keys-trojan",
       "url": "https://raw.githubusercontent.com/TelegaVPN/free-vpn-keys/main/sub/base64/trojan.txt"
     },
@@ -3837,7 +3905,10 @@
     },
     {
       "name": "gh-lanzm-MetaFetch-sub-1",
-      "url": "https://cp.cloudflare.com/generate_204"
+      "url": "https://cp.cloudflare.com/generate_204",
+      "disabled": true,
+      "disabled_at": "2026-11-16T19:09:31Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-snakem982-proxypool-clash-meta-2",
