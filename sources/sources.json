@@ -420,10 +420,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "amir-reza-bijandi-v2ray-configs",
-      "url": "https://raw.githubusercontent.com/amir-reza-bijandi/v2ray-configs/main/configs.txt"
-    },
-    {
       "name": "amirkma-proxykma",
       "url": "https://raw.githubusercontent.com/amirkma/proxykma/HEAD/mix.txt",
       "disabled": true,
@@ -2777,7 +2773,10 @@
     },
     {
       "name": "gh-idtheo-V2Ray-CleanIPs-Servers-sub-1",
-      "url": "https://free-sub.indevs.in"
+      "url": "https://free-sub.indevs.in",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-0xRadikal-Free-v2ray-Configs-vmess",
@@ -2792,7 +2791,10 @@
     },
     {
       "name": "gh-hidooch980-molidovpn-android-shard-nodes",
-      "url": "https://raw.githubusercontent.com/hidooch980/molidovpn-android/main/remote/shard-nodes.txt"
+      "url": "https://raw.githubusercontent.com/hidooch980/molidovpn-android/main/remote/shard-nodes.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-alireza786786-Free-V2ray-Configs-all-servers",
@@ -2829,15 +2831,24 @@
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-WHITE-CIDR-RU-all",
-      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt"
+      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-1",
-      "url": "https://shoes.tworiverssoftware.com/2GDD1PZDcm4UPkPEfYulA6nZ"
+      "url": "https://shoes.tworiverssoftware.com/2GDD1PZDcm4UPkPEfYulA6nZ",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-2",
-      "url": "https://cdn-131.airstrip1.net/4c5d6e7f8g9h0i1j2k3l4m5n"
+      "url": "https://cdn-131.airstrip1.net/4c5d6e7f8g9h0i1j2k3l4m5n",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-3",
@@ -2869,47 +2880,80 @@
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-10",
-      "url": "https://webtunnel.offblast.org/oaxifL26HqflyooEBmgvNgmt"
+      "url": "https://webtunnel.offblast.org/oaxifL26HqflyooEBmgvNgmt",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-11",
-      "url": "https://adm.unicoridor.ru/rtASSYlOJgl1nKtH8njdZLbs"
+      "url": "https://adm.unicoridor.ru/rtASSYlOJgl1nKtH8njdZLbs",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-12",
-      "url": "https://cdn-35.triplebit.dev/iethae6ahvoo1ieV"
+      "url": "https://cdn-35.triplebit.dev/iethae6ahvoo1ieV",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-13",
-      "url": "https://cdn-36.triplebit.dev/jah6keeth0Pheiph"
+      "url": "https://cdn-36.triplebit.dev/jah6keeth0Pheiph",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-14",
-      "url": "https://qbxa1hay.xoomlia.com/k0tf6syz/"
+      "url": "https://qbxa1hay.xoomlia.com/k0tf6syz/",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-15",
-      "url": "https://radio.bulger.co.uk/MRVXuFJChNu7VSs8Zf4KhaDD"
+      "url": "https://radio.bulger.co.uk/MRVXuFJChNu7VSs8Zf4KhaDD",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-16",
-      "url": "https://mdapi.ch/api/v1/proxy/U84is7V9U8rB0ZgnWKfs65lmwsvprN9x"
+      "url": "https://mdapi.ch/api/v1/proxy/U84is7V9U8rB0ZgnWKfs65lmwsvprN9x",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-17",
-      "url": "https://creeper.sbs/EJUv2XVQkHdMHwXJCwNUfGip"
+      "url": "https://creeper.sbs/EJUv2XVQkHdMHwXJCwNUfGip",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-18",
-      "url": "https://app03.oneclickhost.eu/rTl1ijNSNKZzskFsMjNMRI0p"
+      "url": "https://app03.oneclickhost.eu/rTl1ijNSNKZzskFsMjNMRI0p",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-19",
-      "url": "https://cdn-24.triplebit.dev/ltEw6VdiVdI4PiBeq4fjz4yn"
+      "url": "https://cdn-24.triplebit.dev/ltEw6VdiVdI4PiBeq4fjz4yn",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-20",
-      "url": "https://wt.xoomlia.com/Lsd6ebydoA5t5JdXGLq71O2I"
+      "url": "https://wt.xoomlia.com/Lsd6ebydoA5t5JdXGLq71O2I",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-igareck-vpn-configs-for-russia-sub-21",
@@ -3267,7 +3311,10 @@
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-6",
-      "url": "https://v2raya.net/manual/transparent-proxy.html"
+      "url": "https://v2raya.net/manual/transparent-proxy.html",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-1-4",
@@ -3299,23 +3346,38 @@
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-5-4",
-      "url": "https://v2raya.net/install/debian.html"
+      "url": "https://v2raya.net/install/debian.html",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-6-2",
-      "url": "https://v2raya.net/install/docker.html"
+      "url": "https://v2raya.net/install/docker.html",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-7",
-      "url": "https://v2raya.net/install/openwrt.html"
+      "url": "https://v2raya.net/install/openwrt.html",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-8",
-      "url": "https://v2raya.net/install/podman.html"
+      "url": "https://v2raya.net/install/podman.html",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-9",
-      "url": "https://v2raya.net/install/redhat.html"
+      "url": "https://v2raya.net/install/redhat.html",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-crashgfw-free-airport-nodes-sub-10",
@@ -3705,11 +3767,17 @@
     },
     {
       "name": "gh-hidooch980-molidovpn-sub-1",
-      "url": "https://www.vpnjantit.com/free-ikev2"
+      "url": "https://www.vpnjantit.com/free-ikev2",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-hidooch980-molidovpn-sub-2",
-      "url": "https://www.vpnjantit.com/create-free-account?server=bd2&type=IKEV2"
+      "url": "https://www.vpnjantit.com/create-free-account?server=bd2&type=IKEV2",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-MaxFreudDrethe-VCC-trojan",
@@ -3750,7 +3818,10 @@
     },
     {
       "name": "gh-iamiralpha-v2ray-desk-sub-1",
-      "url": "https://raw.githubusercontent.com/iamiralpha/v2ray-desk/main/install-online.sh"
+      "url": "https://raw.githubusercontent.com/iamiralpha/v2ray-desk/main/install-online.sh",
+      "disabled": true,
+      "disabled_at": "2026-11-16T06:27:55Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-sg-scale-v2ray-core-v4-31-0-sub-1",
