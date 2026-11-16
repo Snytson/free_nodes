@@ -3976,6 +3976,1211 @@
       "disabled": true,
       "disabled_at": "2026-11-15T06:35:08Z",
       "disabled_reason": "no_verified_nodes"
+    },
+    {
+      "name": "gh-lovedxc-smartdns-rules-dat-sub-1",
+      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
+    },
+    {
+      "name": "gh-lovedxc-smartdns-rules-dat-sub-2",
+      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
+    },
+    {
+      "name": "gh-MhdiTaheri-V2rayCollector-Py-mix",
+      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt"
+    },
+    {
+      "name": "gh-DukeMehdi-FreeList-V2ray-Configs-Lite-DukeMehdi-Configs",
+      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/Lite-DukeMehdi-Configs.txt"
+    },
+    {
+      "name": "gh-DukeMehdi-FreeList-V2ray-Configs-SS-DukeMehdi-Configs",
+      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/SS-DukeMehdi-Configs.txt"
+    },
+    {
+      "name": "gh-grisha-seleznev-free-vless-keys-russia-sub",
+      "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub.txt"
+    },
+    {
+      "name": "gh-grisha-seleznev-free-vless-keys-russia-sub-base64",
+      "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub_base64.txt"
+    },
+    {
+      "name": "gh-itxrci1-v2ray-sub",
+      "url": "https://raw.githubusercontent.com/itxrci1/v2ray/main/sub.txt"
+    },
+    {
+      "name": "gh-shaoyouvip-free-mihomo",
+      "url": "https://raw.githubusercontent.com/shaoyouvip/free/main/mihomo.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-hamedmoradi70701-dotcom-Free-v2ray-Configs-clash",
+      "url": "https://raw.githubusercontent.com/hamedmoradi70701-dotcom/Free-v2ray-Configs/main/fast/clash.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-hamedmoradi70701-dotcom-Free-v2ray-Configs-ssvless",
+      "url": "https://raw.githubusercontent.com/hamedmoradi70701-dotcom/Free-v2ray-Configs/main/protocols/ssvless.txt"
+    },
+    {
+      "name": "gh-hamedmoradi70701-dotcom-Free-v2ray-Configs-trojan",
+      "url": "https://raw.githubusercontent.com/hamedmoradi70701-dotcom/Free-v2ray-Configs/main/protocols/trojan.txt"
+    },
+    {
+      "name": "gh-HotDrify-drifyconfigs-subs",
+      "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/subs.txt"
+    },
+    {
+      "name": "gh-Alirewa-V2ray-Configs-sub1",
+      "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub1.txt"
+    },
+    {
+      "name": "gh-Alirewa-V2ray-Configs-sub2",
+      "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub2.txt"
+    },
+    {
+      "name": "gh-Alirewa-V2ray-Configs-sub3",
+      "url": "https://raw.githubusercontent.com/Alirewa/V2ray-Configs/main/sub3.txt"
+    },
+    {
+      "name": "gh-lorenzazy7kenyon-free-vpn-subscriptions-clash",
+      "url": "https://raw.githubusercontent.com/lorenzazy7kenyon/free-vpn-subscriptions/main/output/clash.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-lorenzazy7kenyon-free-vpn-subscriptions-v2ray-base64",
+      "url": "https://raw.githubusercontent.com/lorenzazy7kenyon/free-vpn-subscriptions/main/output/v2ray-base64.txt"
+    },
+    {
+      "name": "gh-lorenzazy7kenyon-free-vpn-subscriptions-clash-AE",
+      "url": "https://raw.githubusercontent.com/lorenzazy7kenyon/free-vpn-subscriptions/main/output/by-country/clash-AE.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-lorenzazy7kenyon-free-vpn-subscriptions-clash-AL",
+      "url": "https://raw.githubusercontent.com/lorenzazy7kenyon/free-vpn-subscriptions/main/output/by-country/clash-AL.yaml",
+      "format": "clash_yaml"
+    },
+    {
+      "name": "gh-AbolDev-kumo-client-sub-1",
+      "url": "http://scripts.sil.org/OFL"
+    },
+    {
+      "name": "gh-AbolDev-kumo-client-sub-1-2",
+      "url": "https://aka.ms/winget-manifest.installer.1.6.0.schema.json"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-40",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub2.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-41",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub3.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-42",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub4.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-43",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub5.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-44",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub6.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-45",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub7.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-46",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub8.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-47",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vmess.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-49",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/trojan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-50",
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/ss.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-51",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/vmess.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-52",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/trojan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-53",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/splitted/ss.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-54",
+      "url": "https://raw.githubusercontent.com/mahdibland/V2RayAggregator/master/sub/sub_merge_base64.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-55",
+      "url": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/vmess_iran.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-56",
+      "url": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/ss_iran.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-57",
+      "url": "https://raw.githubusercontent.com/youfoundamin/V2rayCollector/main/trojan_iran.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-60",
+      "url": "https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-61",
+      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/ss"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-63",
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ss_configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-64",
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ssr_configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-65",
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/trojan_configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-66",
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vless_configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-67",
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vmess_configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-68",
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-69",
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha-All-Type.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-71",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-72",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub1.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-73",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub2.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-74",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub3.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-75",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub4.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-76",
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/subs/sub39.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-81",
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-82",
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/light.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-83",
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/vless.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-84",
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/vmess.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-85",
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/shadowsocks.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-86",
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/trojan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-88",
+      "url": "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-89",
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-91",
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-92",
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-93",
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-96",
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vless.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-97",
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vmess.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-98",
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-99",
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/trojan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-100",
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub1.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-101",
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Sub2.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-102",
+      "url": "https://raw.githubusercontent.com/10ium/ScrapeAndCategorize/refs/heads/main/output_configs/Germany.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-104",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vless.html"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-105",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/vmess.html"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-106",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/trojan.html"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-107",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/ss.html"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-108",
+      "url": "https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/hy2.html"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-110",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub1.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-111",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub2.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-112",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub3.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-113",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub4.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-114",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub5.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-115",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub6.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-116",
+      "url": "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Sub7.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-117",
+      "url": "https://raw.githubusercontent.com/sevcator/5ubscrpt10n/main/protocols/vl.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-121",
+      "url": "https://raw.githubusercontent.com/CidVpn/cid-vpn-config/refs/heads/main/general.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-122",
+      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/refs/heads/main/vless"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-126",
+      "url": "https://raw.githubusercontent.com/shabane/kamaji/master/hub/merged.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-135",
+      "url": "https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-136",
+      "url": "https://raw.githubusercontent.com/liketolivefree/kobabi/main/sub_all.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-137",
+      "url": "https://raw.githubusercontent.com/zieng2/wl/refs/heads/main/vless_lite.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-138",
+      "url": "https://raw.githubusercontent.com/ByeWhiteLists/ByeWhiteLists2/refs/heads/main/ByeWhiteLists2.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-140",
+      "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/trojan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-141",
+      "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vmess.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-142",
+      "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/vless.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-143",
+      "url": "https://raw.githubusercontent.com/F0rc3Run/F0rc3Run/refs/heads/main/splitted-by-protocol/shadowsocks.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-144",
+      "url": "https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-145",
+      "url": "https://1111.kunlun01.com/api/kunlun01/41e8ba52ba33171cb1437731ad6bfe82"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-146",
+      "url": "https://123.tsm.cc.cd/sub/user/eyJ1Ijoi5L-65ru05Zyj5YmRIiwiZSI6MTc3NDc3MDYzOTI1NCwicyI6IjA0OGU1NzhhZGI1NTdiYzcifQ"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-147",
+      "url": "https://123.tsm.cc.cd/sub/user/eyJ1IjoiQWEyMDEwMDQwOSIsImUiOjE3NzQ4NTk0MDEwNzEsInMiOiIzNmM2ZWQ2NzFjNmI2OGI3In0"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-148",
+      "url": "https://2.342242.icu/api/v1/client/subscribe?token=6a6f8bffd6c8344bf4fcafc2c1c9046b"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-151",
+      "url": "https://2.juanwangjc.top/juanwang/dingyue1/sub1/babiq?token=214446242263d12cda87486c8ca350c3"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-152",
+      "url": "https://2e0b4f45.ghelper.me/subs/clash/1dbd7df12e0b4f456b2a58104e29fd8f"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-153",
+      "url": "https://399dd33c.ghelper.me/subs/clash/af106548399dd33c6e1988ae9331068b"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-154",
+      "url": "https://520fly.520fly.uk/api/520fly/db1fa301921125f73b47d5608255bb2e"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-155",
+      "url": "https://64258.zhujue.uk/api/zhujue/56db3bf69009cb70e2540e9a2c40cd32"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-156",
+      "url": "https://ab.551221.xyz/s/3b1223c7486d42b0b314e042da634882"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-157",
+      "url": "https://abc.irys.dpdns.org/cdb39334e4f0c9a7dd6f28ecdbc03ee7"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-161",
+      "url": "https://anten.ir"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-162",
+      "url": "https://api.kuke-sub.com/s/eca8cd2495356f044961e82b7411aba7"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-163",
+      "url": "https://api.v1.mk/sub?target=mixed&url=https%3A%2F%2Fabc.irys.dpdns.org%2Fcdb39334e4f0c9a7dd6f28ecdbc03ee7&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online_Full_NoAuto.ini&emoji=true&list=false&xudp=false&udp=false&tfo=false&expand=true&scv=false&fdn=false&diyua=ShadowRocket"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-164",
+      "url": "https://api.valconfig.com/sub/?access_key=2e7ecfe5bc1d8a0bbc4366b3d699829e"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-165",
+      "url": "https://apiok.apistencent.com/api/v1/client/subscribe?token=bf1712b4fb2c0927b50dde17b57a39c7"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-166",
+      "url": "https://app.nextvpn.xyz/api/sub/b265ff5d5172a25b2f6eadbfac154e4991006054"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-167",
+      "url": "https://app.sublink.works/x/0QcVXCM"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-168",
+      "url": "https://app.sublink.works/x/245b700"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-169",
+      "url": "https://app.sublink.works/x/2sJ4iRa"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-170",
+      "url": "https://app.sublink.works/x/3EQOcvw"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-171",
+      "url": "https://app.sublink.works/x/4rDfZFn"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-172",
+      "url": "https://app.sublink.works/x/8T0iFSX"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-173",
+      "url": "https://app.sublink.works/x/AgkD2Bs"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-174",
+      "url": "https://app.sublink.works/x/CNjINPP"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-175",
+      "url": "https://app.sublink.works/x/DriNqVc"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-176",
+      "url": "https://app.sublink.works/x/fuAVJlK"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-177",
+      "url": "https://app.sublink.works/x/fXfXRIG"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-178",
+      "url": "https://app.sublink.works/x/g42z3pI"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-179",
+      "url": "https://app.sublink.works/x/GKPYXU0"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-180",
+      "url": "https://app.sublink.works/x/GKWZ8rh"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-181",
+      "url": "https://app.sublink.works/x/H1KBMqu"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-182",
+      "url": "https://app.sublink.works/x/Hp8mLD9"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-183",
+      "url": "https://app.sublink.works/x/j833A5H"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-184",
+      "url": "https://app.sublink.works/x/Je04xMb"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-185",
+      "url": "https://app.sublink.works/x/ME3xyUV"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-186",
+      "url": "https://app.sublink.works/x/mWOW2Ng"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-187",
+      "url": "https://app.sublink.works/x/MYfBnK8"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-188",
+      "url": "https://app.sublink.works/x/MYUNjp2"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-189",
+      "url": "https://app.sublink.works/x/oUEDacM"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-190",
+      "url": "https://app.sublink.works/x/OVB7OFi"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-191",
+      "url": "https://app.sublink.works/x/Rvm05EN"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-192",
+      "url": "https://app.sublink.works/x/s0K7MCO"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-193",
+      "url": "https://app.sublink.works/x/sk4fJAO"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-194",
+      "url": "https://app.sublink.works/x/SW0tZRk"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-195",
+      "url": "https://app.sublink.works/x/WVhK4Am"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-196",
+      "url": "https://app.sublink.works/x/yfQA6TE"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-197",
+      "url": "https://app.sublink.works/x/yldfhll"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-198",
+      "url": "https://app.sublink.works/x/Yp8TUmG"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-199",
+      "url": "https://app.sublink.works/x/YpyR0y9"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-200",
+      "url": "https://app.sublink.works/x/ziFe8Du"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-201",
+      "url": "https://app.sublink.works/x/zMiv0t3"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-202",
+      "url": "https://apps.apple.com/app/incy/id6756943388"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-203",
+      "url": "https://apps.apple.com/ga/app/v2box-v2ray-client/id6446814690?l=en-GB&platform=mac"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-204",
+      "url": "https://apps.apple.com/us/app/incy/id6756943388"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-205",
+      "url": "https://baklajann.online/exec?url=http%3A%2F%2F77.110.104.181%3A5002%2Fsub%2FaW1vLDE3ODI3Mzg4NDUct0QXbRdMp"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-207",
+      "url": "https://bao.yuanbaojc.site/api/yuanbaojc/7ab058ab245c9e7e50c17ec076a4451b"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-208",
+      "url": "https://bao.yuanbaojc.site/api/yuanbaojc/899ccdb36269c82c91dff5a63da7f79f"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-209",
+      "url": "https://bbtj.hhllfly.kdns.fr/sub?token=ymKdEOkMsuXTBU2"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-210",
+      "url": "https://bp.sub.cmliussss.net/sub?host=c.il.ip-ddns.com&sub=owo.o00o.ooo&proxyip=ProxyIP.US.CMLiussss.net&subapi=https%3A%2F%2Fsubapi.cmliussss.net&subconfig=https%3A%2F%2Fraw.githubusercontent.com%2Fcmliu%2FACL4SSR%2Fmain%2FClash%2Fconfig%2FACL4SSR_Online_Full_MultiMode_CF.ini&uuid=b9a4e9a7-97f4-4908-a80e-030441deb1f5&ed=2560"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-222",
+      "url": "https://btxst.eu.cc/sub?token=1fb3e82d731ba1493627e9ad7a53e49b"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-223",
+      "url": "https://cdn.jsdelivr.net/gh/firefoxmmx2/v2rayshare_subcription/subscription/vray_sub.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-224",
+      "url": "https://cdn2.puter.site/cdn2"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-225",
+      "url": "https://codeberg.org/kuertov_community/sub/raw/branch/main/013DB4292D9571DD"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-226",
+      "url": "https://connect.frost-api.com/v1/access/sub/11b73c47-2e74-4054-b8c0-05467b1c2b71"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-227",
+      "url": "https://connect.vpnhub.shop/sub/bCWhmfQMkop-8x7x"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-228",
+      "url": "https://connect.vpnhub.shop/sub/FdCxVraX_HP7ZQzU"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-229",
+      "url": "https://d39333476.pages.dev/sub?token=83163e5dac68c89ca2f13ee4365489bb"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-230",
+      "url": "https://daluan.eu.org/fc625795-792d-4d9d-9d38-bffe59467d2d/pty"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-231",
+      "url": "https://dash.djjc.cfd/api/v1/client/subscribe?token=c1c0bd4752d4ea34e82064a8469ce72f"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-232",
+      "url": "https://dash.xn--cp3a08l.com/api/v1/pq/7be640ff2c6d6a09fe34682aa63d3af6"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-233",
+      "url": "https://de1.sub.vrp-vpn.online/7Uyww1a9X-1HRpZ5"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-234",
+      "url": "https://djmsnjg1mywxnzg0nzq2ntcw.iksonpq7vi1v24wkjbprwja3flzyuibgkfddfjkgifdsssduh.levikogjgfdd.ir:8443/"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-235",
+      "url": "https://downloads.onelighter.site/api/v1/client/subscribe?token=44f8275bf81b6b4b5623a8a0955c8bc7"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-237",
+      "url": "https://drive.google.com/uc?export=download&id=1-EopH8hKLwaRJ3kxm3-40x4CZQ3prAzP"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-243",
+      "url": "https://dtj-4.atlanta-subs.ru/cf6WrxKDCEnxP7Rg"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-244",
+      "url": "https://dy.baiyi123.dpdns.org:443"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-245",
+      "url": "https://empty-mouse-fbb7.alizareh4024.workers.dev/sync?sub=%D8%B3%D9%88%D8%B3%D9%85%D8%A7%D8%B1%F0%9F%A6%8E"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-246",
+      "url": "https://enc.ring-team.ru/sub/im7hacjx6g"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-247",
+      "url": "https://enc.ring-team.ru/sub/xzob0di9k200"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-249",
+      "url": "https://fast.o00o.ooo/ooo"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-250",
+      "url": "https://feichanghaotlszuduanshiwodeyumingxuanzhuan.esucloud.com/link/PcuH8hr62e0rpajA?clash=1"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-251",
+      "url": "https://flat-hill-2415.fatago78.workers.dev"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-253",
+      "url": "https://freeproxy.20101103.xyz/MENG?b64&v="
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-254",
+      "url": "https://gate.cuirassvpn.com/sub/dd2fc04c8349bff0042648370b1ef6e74e462400912f04b8de7690be930aec0f"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-255",
+      "url": "https://gates.djjc.cfd/api/v1/client/subscribe?token=975cf81ca0d1c9990e0275016c0e5559&flag=meta"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-256",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Barabama/FreeNodes/main/nodes/yudou66.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-257",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/Ruk1ng001/freeSub/main/clash.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-259",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/clash.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-260",
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/ssrsub/ssr/master/v2ray"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-261",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/c.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-263",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/free18/v2ray/refs/heads/main/v.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-264",
+      "url": "https://ghfast.top/raw.githubusercontent.com/yzcjd/jiedian/main/%40yzcjd"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-265",
+      "url": "https://gist.githubusercontent.com/Ango-CC/38099f6f05d703ebc8aead7964321c33/raw/760753a0f71acdfcc06bf2409682d4ce1b812b42/20260523.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-266",
+      "url": "https://gist.githubusercontent.com/Bei0jnthmmq2yh4Quinn/f0ce85e0a0ad63019049c76bc883823e/raw/f5e9cdd3ea9d04a6657f4eec99c3d3416c5fe0de/clash.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-267",
+      "url": "https://gist.githubusercontent.com/dapei0402/9e1c2b465921ed4f2a58a03c7f5cbbea/raw/clash.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-268",
+      "url": "https://gist.githubusercontent.com/inaz2026/bce3814066e1fcdf525d19247234379d/raw/287376b5d9382a804562610d7ab3f17bf10a7e46/internet_azad_2026"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-269",
+      "url": "https://gist.githubusercontent.com/internetazad2026/af5102425cbd01c375dfa68d0adb949a/raw/991f55d407be858186e8084bd3547403829e75c3/internet_azad_2026"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-270",
+      "url": "https://gist.githubusercontent.com/Irreversibles/2858f07da56b569dde33ee4dd2e11f94/raw"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-271",
+      "url": "https://gist.githubusercontent.com/LIKE-FURRY/adb315d93aa5c5bfbbe27fdfb5b30fba/raw/9d3025dc2d248f3aa866d73cf9f53d91ca42ffde/XUYN%25D0%25AF-NA-5-DNEY"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-272",
+      "url": "https://gist.githubusercontent.com/LIKE-FURRY/ea91d3f11eb50e849c6007754417dc59/raw/d40546055dd1b382d3a2e4f6f810b68d9406cacf/GothicVPNFree-iz-githab"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-273",
+      "url": "https://gist.githubusercontent.com/oneclickvpnkeys/e63b10da93b4d253d3f823dd2f115839/raw/_July"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-275",
+      "url": "https://gist.githubusercontent.com/senatorpersian/ddb0dc4ceed582630c24ef56197d297a/raw/7767ced7587c4f8d203de08b186606eb880f3814/subscription.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-276",
+      "url": "https://gist.githubusercontent.com/senatorpersian/ddb0dc4ceed582630c24ef56197d297a/raw/cb3370e2be7a72cb640d96c7b137029dc05b3739/subscription.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-278",
+      "url": "https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/45a4616a347cf5998fd9ef83d41d8a91ff314bc6/all.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-279",
+      "url": "https://gist.githubusercontent.com/shuaidaoya/9e5cf2749c0ce79932dd9229d9b4162b/raw/base64.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-281",
+      "url": "https://gist.githubusercontent.com/SoloRepozSF/7810f115b912e7640a11809863045755/raw/SANTA"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-282",
+      "url": "https://gistpad.com/raw/vif-vpn-tg-reverse-engineer-s-basement"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-283",
+      "url": "https://gitverse.ru/api/repos/Akres/VPN/raw/branch/master/all"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-284",
+      "url": "https://gitverse.ru/api/repos/bikinitw22/apelsintel/raw/branch/main/alive_bl.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-285",
+      "url": "https://gitverse.ru/api/repos/bikinitw22/apelsintel/raw/branch/main/alive_bs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-286",
+      "url": "https://gitverse.ru/api/repos/bikinitw22/apelsintel/raw/branch/main/alive_full.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-291",
+      "url": "https://gitverse.ru/api/repos/LAMPA/LAMPA/raw/branch/master/Lampa"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-292",
+      "url": "https://gitverse.ru/api/repos/MishaLan/MishaLan/raw/branch/master/MishaLan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-293",
+      "url": "https://gitverse.ru/api/repos/Niyakwi/Kfg/raw/branch/master/new_file"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-295",
+      "url": "https://gitverse.ru/api/repos/SaNta2/SaNtA2/raw/branch/master/SaN1A"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-296",
+      "url": "https://gitverse.ru/api/repos/soulcoil/Haven/raw/branch/master/Haven"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-298",
+      "url": "https://gitverse.ru/api/repos/zieng2/wl/raw/branch/master/list_universal.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-299",
+      "url": "https://glassdy.mavita.kdns.fr/sub/user/eyJ1IjoiY2hlbmxhbzc5MiIsImUiOjE3ODYwNzQxNzY5NTAsInMiOiJiZjFhMjU1YmM2OGYxMDA0In0?custom=1&protocol=default"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-300",
+      "url": "https://grok.com"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-301",
+      "url": "https://grok.com/imagine"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-302",
+      "url": "https://guolicheng.cfd/api/v1/client/subscribe?token=a7302892f5eb857735ce5b267184b3ee"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-303",
+      "url": "https://happ.ring-team.ru/sub/0481er2f1s"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-304",
+      "url": "https://happ.ring-team.ru/sub/5brp3tolpz"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-305",
+      "url": "https://hub.mos.ru/maksimabakumov47/MakabumovSub/-/raw/main/sub.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-306",
+      "url": "https://hub.mos.ru/zieng2/wl/raw/main/list_universal.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-307",
+      "url": "https://hubcom.xyz/sub/3/51404434-ecd7-4ed0-bd27-a0b521475320"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-308",
+      "url": "https://i.12.kg/6/91538770a408e3d667eac930b616228f"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-309",
+      "url": "https://iam.sos.al/https://subscription.hyvps.sbs/f/uI1fxph2ja6A-pRPStYBaRWT5-ievBb_?platform=ios?platform=ios"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-314",
+      "url": "https://jsl.subcome.com/sub?token=afe4272bd3dfb6b89f4b2f9b16b94900&uuid=fc4472ab-2bb8-4023-9408-0248d6cd0268"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-315",
+      "url": "https://jue.zhujue.uk/api/zhujue/dbc2aa1ca8c6d1e24e288bab4b18215d"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-316",
+      "url": "https://ldgb.pages.dev/sub?token=5238141bc3daa773b225209767b9fb2c"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-317",
+      "url": "https://liangxin.xyz/api/v1/liangxin?OwO=037cc188deb29328dc08c523ae7355bf"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-318",
+      "url": "https://link.flagman.click/sub/wWJsbBP7eAxpu2JZkaDVeFM-1"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-319",
+      "url": "https://mar.bbc.xx.kg/?b64"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-321",
+      "url": "https://mc.jiedianxielou.workers.dev/api/v1/client/subscribe?token=22a82bc9a50b426b944bdeca4c4c2168"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-322",
+      "url": "https://mlshu.top/s/013d13ca43f6be1f279ab2a6133aad7b"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-323",
+      "url": "https://mrpgd.ir/sub/djMsOTU4MywxNzg2MjY2MDg4.bA_0iFZvs6qN50Resim6E9c9yF67ZLW53NuJUAOdVjs"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-324",
+      "url": "https://mrpgd.ir/sub/djMsOTY0NCwxNzg2MjY2NDY1.yClsHX3wmIbRZQk0V95WGzjrKrhI2yG-cvvYKxosKbI"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-325",
+      "url": "https://mrpgd.ir/sub/djMsOTY2MSwxNzg2MjY2Nzk5.bUB1cnHMm8bn-S6eB_LUL8aztr4EI5_amsBf8Yf-M2w"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-326",
+      "url": "https://mrz.savfast.ir:8443/sub/RGlhbmFfODU0NTYwMjU5M19lOGYwZmMsMTc4Mzg3NDM1NgOFg3g5pHqV"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-327",
+      "url": "https://mrz.savfast.ir:8443/sub/V2hpdGVETlNfODU0NTYwMjU5M19hZTAxMjgsMTc4Mjg3MDExMgyiMQeto1iP"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-328",
+      "url": "https://msk.vless-balancer.ru/sub/dXNlcl82Nzg4MzMxMjQ5LDE3Njk1MzUzMTkBqGm3A1STd#Subscription"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-330",
+      "url": "https://msk.vless-balancer.ru/sub/dXNlcl83NzY5NzY5ODMyLDE3NzA0ODIxMTcWEKyp8ITa_"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-331",
+      "url": "https://msk.vless-balancer.ru/sub/dXNlcl84Mjg1NDM3MDUwLDE3NzE3MDg4MjcqHdka0WVgk#Subscription"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-332",
+      "url": "https://msk.vless-balancer.ru/sub/dXNlcl84MzkyMjY1MDE2LDE3NzEwNDc4MDcjRQihSWGNF"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-333",
+      "url": "https://mtvpn.net/s/cfe830d243598ac0bfee352f8900ea39"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-334",
+      "url": "https://mtvpn.net/s/e858b24e4dc66151908b36d5d136a11f#"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-336",
+      "url": "https://mxl.us.ci/uGGCn2"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-337",
+      "url": "https://mzyglc.xyz/api/v1/client/subscribe?token=8168d96fdc6b11666c2876070bb7a12b"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-338",
+      "url": "https://niaodi.top/niao?token=8cf28a28d8ed739b8e9bc5489a73a75b"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-339",
+      "url": "https://node.vanav.eu.org:443"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-340",
+      "url": "https://nodebuf.com/files/public/cmrduwrf40ad4pi5wbriuj118/download"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-341",
+      "url": "https://p.kfwl.lol/https://freevpnhappcluchi.duckdns.org/sub/lew1ik2xiuohs9v3"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-342",
+      "url": "https://p.kfwl.lol/https://freevpnhappcluchi.duckdns.org/sub/o20pq89rdo9e7afo"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-343",
+      "url": "https://p.kfwl.lol/https://open.self-kvn.org/Lpy_G97b2mMFzKu7"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-344",
+      "url": "https://p.kfwl.lol/https://open.self-kvn.org/U1ftkaPanPL1nVHm"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-345",
+      "url": "https://p.kfwl.lol/https://riotvpn.eu/sub/Gv9ZS2wG8AmQwbaU"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-346",
+      "url": "https://p.kfwl.lol/https://s.812004.xyz/hQjspTEbpUBEd0tA"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-347",
+      "url": "https://p.kfwl.lol/https://sub.tribukvy.ltd/g1715223163643_main_Gx1mW"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-348",
+      "url": "https://p.kfwl.lol/https://sub.unionpriority.ru/gXCD2cLh2CENGSZo"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-349",
+      "url": "https://p.kfwl.lol/https://vedalink.xyz/pro/kMshRjl8ViK5bWt2kIWfqwzj"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-350",
+      "url": "https://p.kfwl.lol/https://work.botov.space/s/4f6fbcc5680dcd9a"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-351",
+      "url": "https://p.kfwl.lol/os=android/h=CB522960-E2A9-7A19-12CB-FD12FEC71E19/http://77.110.104.181:5002/sub/VGdSdSwxNzg1NTYxNjU38eVS93bReu"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-352",
+      "url": "https://p.kfwl.lol/os=android/h=CB522960-E2A9-7A19-12CB-FD12FEC71E19/https://key.vlesvpn.ru/rem/sub/4CR0UJ4"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-353",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/h=2cb330fc9eac1e83/https://sub.ledokol.shop/_vtkjG6UkPT9wyxE"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-354",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://botovod.onlyapps.space/api/sub/CYs0Rs-f00LJkQZV"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-355",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://lumixnet.com/api/subscriptions/-QM7pQ39eksGr2qo"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-356",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://ru-sub.whit3.net/sub/mEMRj91DTNLu9VJF"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-357",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub.fireflycloud.shop:2096/sub-vpn/Vless_8656291098_6595"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-358",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub.lpnoriginal.site/PApAZNgut2q_RRXJ"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-359",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub01.no-route-today.net/api/sub/zAbrJ-HUvZpspvXN"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-360",
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://unlockvpn.online/api/v1/sub/1f619326-cd93-4d6b-aebe-e0b5f8831d02"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-361",
+      "url": "https://panel.vpnpanel.pro/sub/d2l6YXJyby1zM21mLDE3ODIxMTY5NTI_1WQneZZhj"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-362",
+      "url": "https://paste.c-net.org/CampsPunched"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-363",
+      "url": "https://pay.noesissite.ru/sub/22TR9Q54585RGppK2vyqGq0ZyOzwXBDg"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-364",
+      "url": "https://peige.dpkj.qzz.io/dapei"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-365",
+      "url": "https://pg.unlimited-access.ru/sub/djMsMzQ1OCwxNzg2NTQwNDQz75f5275e21"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-366",
+      "url": "https://plus.rainzone.ir/sub/djMsMTY1MDcsMTc4MzU0NjcyMQcdcafb4826"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-367",
+      "url": "https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=8f44f73b56f83222ca14bc60ed1740c5"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-368",
+      "url": "https://rahi-mohamadi2020.pages.dev/api/configs"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-369",
+      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/bl_228.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-370",
+      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/pc_228.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-371",
+      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/wl_228.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-373",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-374",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/secure/clash.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-375",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/secure/configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-376",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/top100.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-377",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/clash.yaml"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-378",
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/verified/configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-379",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium-V2rayCollector-mixed.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-380",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium-V2rayCollector-ss.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-381",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium-V2rayCollector-trojan.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-382",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium-V2rayCollector-vless.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-383",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium-V2rayCollector-vmess.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-385",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_proxy_configs.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-386",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_ss_iran.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-387",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_trojan_iran.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-388",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_vless_iran.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-389",
+      "url": "https://raw.githubusercontent.com/10ium/base64-encoder/main/encoded/10ium_vmess_iran.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-390",
+      "url": "https://raw.githubusercontent.com/10ium/free-config/refs/heads/main/HighSpeed.txt"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-391",
+      "url": "https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/normal/ss"
+    },
+    {
+      "name": "gh-Delta-Kronecker-V2ray-Config-sub-392",
+      "url": "https://raw.githubusercontent.com/10ium/HiN-VPN/main/subscription/normal/trojan"
     }
   ]
 }
