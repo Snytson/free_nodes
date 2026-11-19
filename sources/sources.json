@@ -3645,7 +3645,10 @@
     {
       "name": "gh-peasoft-NoMoreWalls-nodes-meta",
       "url": "https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/snippets/nodes.meta.yml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-19T07:40:41Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-peasoft-NoMoreWalls-nodes",
