@@ -3729,7 +3729,10 @@
     },
     {
       "name": "gh-Arefgh72-v2ray-proxy-pars-sub-5",
-      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt"
+      "url": "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Splitted-By-Protocol/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-20T07:26:43Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Arefgh72-v2ray-proxy-pars-v2ray-config",
@@ -3786,7 +3789,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-320",
-      "url": "https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt"
+      "url": "https://raw.githubusercontent.com/btsk161/Freeinternet_byMygalaru.github.io/refs/heads/main/premium.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-20T07:26:43Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-322",
