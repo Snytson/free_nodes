@@ -869,10 +869,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "romaxa55-megav-all",
-      "url": "https://raw.githubusercontent.com/Romaxa55/MegaV_Public/main/subs/all.txt"
-    },
-    {
       "name": "zxcursedzxc0721-vless",
       "url": "https://raw.githubusercontent.com/zxcursedzxc0721/vless-subscriptions/main/all/vless.txt",
       "disabled": true,
