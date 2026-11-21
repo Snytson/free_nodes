@@ -1,0 +1,4 @@
+vless://8973e4a5-1c15-0001-abc7-60fb180063ea@168.113.252.11:443?type=raw&security=tls&fp=chrome&sni=jkawq-ru-45sb.fade.mom#RU
+vless://8973e4a5-1c15-0001-abc7-60fb180063ea@168.113.252.11:443?type=tcp&security=tls&fp=qq&sni=jkawq-ru-45sb.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20168.113.252.11%3A443%207
+vless://8973e4a5-1c15-0001-abc7-60fb180063ea@168.113.252.11:443?encryption=none&type=tcp&security=tls&sni=jkawq-ru-45sb.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20168.113.252.11%3A443%205
+vless://8973e4a5-1c15-0001-abc7-60fb180063ea@168.113.252.11:443?type=tcp&security=tls&fp=firefox&sni=jkawq-ru-45sb.fade.mom#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20Unknown%20%7C%20168.113.252.11%3A443%206
