@@ -1788,10 +1788,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "gh-whoahaow-rjsxrd-sub-99",
-      "url": "https://autosub-config.vercel.app/sub.txt"
-    },
-    {
       "name": "gh-whoahaow-rjsxrd-sub-102",
       "url": "https://raw.githubusercontent.com/hiztin/VLESS-PO-GRIBI/main/deploy/subscriptions/3.txt",
       "disabled": true,
@@ -5383,103 +5379,178 @@
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-348",
-      "url": "https://p.kfwl.lol/https://sub.unionpriority.ru/gXCD2cLh2CENGSZo"
+      "url": "https://p.kfwl.lol/https://sub.unionpriority.ru/gXCD2cLh2CENGSZo",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-349",
-      "url": "https://p.kfwl.lol/https://vedalink.xyz/pro/kMshRjl8ViK5bWt2kIWfqwzj"
+      "url": "https://p.kfwl.lol/https://vedalink.xyz/pro/kMshRjl8ViK5bWt2kIWfqwzj",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-350",
-      "url": "https://p.kfwl.lol/https://work.botov.space/s/4f6fbcc5680dcd9a"
+      "url": "https://p.kfwl.lol/https://work.botov.space/s/4f6fbcc5680dcd9a",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-351",
-      "url": "https://p.kfwl.lol/os=android/h=CB522960-E2A9-7A19-12CB-FD12FEC71E19/http://77.110.104.181:5002/sub/VGdSdSwxNzg1NTYxNjU38eVS93bReu"
+      "url": "https://p.kfwl.lol/os=android/h=CB522960-E2A9-7A19-12CB-FD12FEC71E19/http://77.110.104.181:5002/sub/VGdSdSwxNzg1NTYxNjU38eVS93bReu",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-352",
-      "url": "https://p.kfwl.lol/os=android/h=CB522960-E2A9-7A19-12CB-FD12FEC71E19/https://key.vlesvpn.ru/rem/sub/4CR0UJ4"
+      "url": "https://p.kfwl.lol/os=android/h=CB522960-E2A9-7A19-12CB-FD12FEC71E19/https://key.vlesvpn.ru/rem/sub/4CR0UJ4",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-353",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/h=2cb330fc9eac1e83/https://sub.ledokol.shop/_vtkjG6UkPT9wyxE"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/h=2cb330fc9eac1e83/https://sub.ledokol.shop/_vtkjG6UkPT9wyxE",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-354",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/https://botovod.onlyapps.space/api/sub/CYs0Rs-f00LJkQZV"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://botovod.onlyapps.space/api/sub/CYs0Rs-f00LJkQZV",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-355",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/https://lumixnet.com/api/subscriptions/-QM7pQ39eksGr2qo"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://lumixnet.com/api/subscriptions/-QM7pQ39eksGr2qo",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-356",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/https://ru-sub.whit3.net/sub/mEMRj91DTNLu9VJF"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://ru-sub.whit3.net/sub/mEMRj91DTNLu9VJF",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-357",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub.fireflycloud.shop:2096/sub-vpn/Vless_8656291098_6595"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub.fireflycloud.shop:2096/sub-vpn/Vless_8656291098_6595",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-358",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub.lpnoriginal.site/PApAZNgut2q_RRXJ"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub.lpnoriginal.site/PApAZNgut2q_RRXJ",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-359",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub01.no-route-today.net/api/sub/zAbrJ-HUvZpspvXN"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://sub01.no-route-today.net/api/sub/zAbrJ-HUvZpspvXN",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-360",
-      "url": "https://p.kfwl.lol/ua=happ/os=android/https://unlockvpn.online/api/v1/sub/1f619326-cd93-4d6b-aebe-e0b5f8831d02"
+      "url": "https://p.kfwl.lol/ua=happ/os=android/https://unlockvpn.online/api/v1/sub/1f619326-cd93-4d6b-aebe-e0b5f8831d02",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-361",
-      "url": "https://panel.vpnpanel.pro/sub/d2l6YXJyby1zM21mLDE3ODIxMTY5NTI_1WQneZZhj"
+      "url": "https://panel.vpnpanel.pro/sub/d2l6YXJyby1zM21mLDE3ODIxMTY5NTI_1WQneZZhj",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-362",
-      "url": "https://paste.c-net.org/CampsPunched"
+      "url": "https://paste.c-net.org/CampsPunched",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-363",
-      "url": "https://pay.noesissite.ru/sub/22TR9Q54585RGppK2vyqGq0ZyOzwXBDg"
+      "url": "https://pay.noesissite.ru/sub/22TR9Q54585RGppK2vyqGq0ZyOzwXBDg",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-365",
-      "url": "https://pg.unlimited-access.ru/sub/djMsMzQ1OCwxNzg2NTQwNDQz75f5275e21"
+      "url": "https://pg.unlimited-access.ru/sub/djMsMzQ1OCwxNzg2NTQwNDQz75f5275e21",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-366",
-      "url": "https://plus.rainzone.ir/sub/djMsMTY1MDcsMTc4MzU0NjcyMQcdcafb4826"
+      "url": "https://plus.rainzone.ir/sub/djMsMTY1MDcsMTc4MzU0NjcyMQcdcafb4826",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-367",
-      "url": "https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=8f44f73b56f83222ca14bc60ed1740c5"
+      "url": "https://pwac.gzi8998-ddns0721.eu/api/v1/gzcloud/subscribe?token=8f44f73b56f83222ca14bc60ed1740c5",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-368",
-      "url": "https://rahi-mohamadi2020.pages.dev/api/configs"
+      "url": "https://rahi-mohamadi2020.pages.dev/api/configs",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-369",
-      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/bl_228.txt"
+      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/bl_228.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-370",
-      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/pc_228.txt"
+      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/pc_228.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-371",
-      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/wl_228.txt"
+      "url": "https://raw.githack.com/nzea243/ikoV31tud_vpn/refs/heads/main/wl_228.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-373",
-      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/configs.txt"
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/fast/configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-374",
-      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/secure/clash.yaml"
+      "url": "https://raw.githubusercontent.com/0xRadikal/Free-v2ray-Configs/main/secure/clash.yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-24T10:41:30Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-375",
