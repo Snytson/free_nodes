@@ -4283,7 +4283,10 @@
     },
     {
       "name": "gh-MhdiTaheri-V2rayCollector-Py-mix",
-      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt"
+      "url": "https://raw.githubusercontent.com/MhdiTaheri/V2rayCollector_Py/main/sub/Mix/mix.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-DukeMehdi-FreeList-V2ray-Configs-Lite-DukeMehdi-Configs",
@@ -4291,7 +4294,10 @@
     },
     {
       "name": "gh-DukeMehdi-FreeList-V2ray-Configs-SS-DukeMehdi-Configs",
-      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/SS-DukeMehdi-Configs.txt"
+      "url": "https://raw.githubusercontent.com/DukeMehdi/FreeList-V2ray-Configs/main/Configs/SS-DukeMehdi-Configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-grisha-seleznev-free-vless-keys-russia-sub",
@@ -4352,11 +4358,6 @@
     {
       "name": "gh-lorenzazy7kenyon-free-vpn-subscriptions-v2ray-base64",
       "url": "https://raw.githubusercontent.com/lorenzazy7kenyon/free-vpn-subscriptions/main/output/v2ray-base64.txt"
-    },
-    {
-      "name": "gh-lorenzazy7kenyon-free-vpn-subscriptions-clash-AE",
-      "url": "https://raw.githubusercontent.com/lorenzazy7kenyon/free-vpn-subscriptions/main/output/by-country/clash-AE.yaml",
-      "format": "clash_yaml"
     },
     {
       "name": "gh-AbolDev-kumo-client-sub-1",
@@ -4479,99 +4480,164 @@
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-61",
-      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/ss"
+      "url": "https://raw.githubusercontent.com/mheidari98/.proxy/main/ss",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-63",
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ss_configs.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ss_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-64",
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ssr_configs.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/ssr_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-65",
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/trojan_configs.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/trojan_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-66",
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vless_configs.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vless_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-67",
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vmess_configs.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/vmess_configs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-68",
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-69",
-      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha-All-Type.txt"
+      "url": "https://raw.githubusercontent.com/ebrasha/free-v2ray-public-list/main/V2Ray-Config-By-EbraSha-All-Type.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-71",
-      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt"
+      "url": "https://raw.githubusercontent.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/super-sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-81",
-      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt"
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/all.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-82",
-      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/light.txt"
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/light.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-83",
-      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/vless.txt"
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-84",
-      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/vmess.txt"
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-85",
-      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/shadowsocks.txt"
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/shadowsocks.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-86",
-      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/trojan.txt"
-    },
-    {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-88",
-      "url": "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt"
+      "url": "https://raw.githubusercontent.com/ShatakVPN/ConfigForge/main/configs/trojan.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-89",
-      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt"
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocks.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-91",
-      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt"
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/ShadowSocksR.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-92",
-      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt"
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Trojan.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-93",
-      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt"
+      "url": "https://raw.githubusercontent.com/Argh94/V2RayAutoConfig/refs/heads/main/configs/Tuic.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-96",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vless.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-97",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vmess.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/vmess.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-98",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/ss.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-99",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/trojan.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/Splitted-By-Protocol/trojan.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-25T19:21:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-100",
