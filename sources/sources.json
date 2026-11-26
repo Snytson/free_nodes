@@ -383,7 +383,10 @@
     },
     {
       "name": "void-anonymity-v.o.i.d-vpn_bypass",
-      "url": "https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt"
+      "url": "https://raw.githubusercontent.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "vovaplusexp-p-configs",
@@ -1273,7 +1276,10 @@
     {
       "name": "gh-hello-world-1989-cn-news-clash-free",
       "url": "https://raw.githubusercontent.com/hello-world-1989/cn-news/main/clash-free.yaml",
-      "format": "clash_yaml"
+      "format": "clash_yaml",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-hello-world-1989-cn-news-clash-test",
@@ -1589,7 +1595,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-61",
-      "url": "https://raw.githubusercontent.com/Ai123999/1Mond/refs/heads/main/1Mond_Notorgamers"
+      "url": "https://raw.githubusercontent.com/Ai123999/1Mond/refs/heads/main/1Mond_Notorgamers",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-62",
@@ -2546,7 +2555,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-281",
-      "url": "https://raw.githubusercontent.com/kort0881/vpn-checker-backend/refs/heads/main/checked/RU_Best/ru_white_all_WHITE.txt"
+      "url": "https://raw.githubusercontent.com/kort0881/vpn-checker-backend/refs/heads/main/checked/RU_Best/ru_white_all_WHITE.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-286",
@@ -2645,7 +2657,10 @@
     },
     {
       "name": "gh-MustafaBaqer-VestraNet-Nodes-vless",
-      "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt"
+      "url": "https://raw.githubusercontent.com/MustafaBaqer/VestraNet-Nodes/main/protocols/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-MustafaBaqer-VestraNet-Nodes-vmess",
@@ -2847,7 +2862,10 @@
     },
     {
       "name": "gh-T3stAcc-V2Ray-vless",
-      "url": "https://raw.githubusercontent.com/T3stAcc/V2Ray/main/Splitted-By-Protocol/vless.txt"
+      "url": "https://raw.githubusercontent.com/T3stAcc/V2Ray/main/Splitted-By-Protocol/vless.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-T3stAcc-V2Ray-vmess",
@@ -3883,7 +3901,10 @@
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-348",
-      "url": "https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt"
+      "url": "https://raw.githubusercontent.com/flaafix/AetrisVPN-white-list-lite/refs/heads/main/AetrisVPN.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-whoahaow-rjsxrd-sub-350",
@@ -4275,11 +4296,17 @@
     },
     {
       "name": "gh-lovedxc-smartdns-rules-dat-sub-1",
-      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt"
+      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/proxy-list.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-lovedxc-smartdns-rules-dat-sub-2",
-      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt"
+      "url": "https://raw.githubusercontent.com/Loyalsoldier/v2ray-rules-dat/release/direct-list.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-MhdiTaheri-V2rayCollector-Py-mix",
@@ -4301,15 +4328,24 @@
     },
     {
       "name": "gh-grisha-seleznev-free-vless-keys-russia-sub",
-      "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-grisha-seleznev-free-vless-keys-russia-sub-base64",
-      "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub_base64.txt"
+      "url": "https://raw.githubusercontent.com/grisha-seleznev/free-vless-keys-russia/main/sub_base64.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-itxrci1-v2ray-sub",
-      "url": "https://raw.githubusercontent.com/itxrci1/v2ray/main/sub.txt"
+      "url": "https://raw.githubusercontent.com/itxrci1/v2ray/main/sub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-26T08:14:32Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-shaoyouvip-free-mihomo",
