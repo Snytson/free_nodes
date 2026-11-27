@@ -4363,7 +4363,10 @@
     },
     {
       "name": "gh-HotDrify-drifyconfigs-subs",
-      "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/subs.txt"
+      "url": "https://raw.githubusercontent.com/HotDrify/drifyconfigs/master/subscribes/subs.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-27T08:16:44Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-Alirewa-V2ray-Configs-sub1",
@@ -5231,10 +5234,6 @@
       "disabled": true,
       "disabled_at": "2026-11-23T07:35:44Z",
       "disabled_reason": "no_verified_nodes"
-    },
-    {
-      "name": "gh-Delta-Kronecker-V2ray-Config-sub-284",
-      "url": "https://gitverse.ru/api/repos/bikinitw22/apelsintel/raw/branch/main/alive_bl.txt"
     },
     {
       "name": "gh-Delta-Kronecker-V2ray-Config-sub-285",
