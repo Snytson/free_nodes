@@ -1,0 +1,1 @@
+vless://ed94398f-893f-40c6-b14c-bf02b5f6be16@130.94.25.12:443?&security=reality&pbk=UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc&sid=2da72ce6&fp=chrome&packet-encoding=xudp&sni=navi.bankrate.com&type=tcp&headerType=none&path=%2F#4Kian-b23e43b4fa
