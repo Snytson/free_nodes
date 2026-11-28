@@ -55,7 +55,10 @@
     },
     {
       "name": "Danialsamadi-AllConfigsSub",
-      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt"
+      "url": "https://raw.githubusercontent.com/Danialsamadi/v2go/main/AllConfigsSub.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-28T07:42:07Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "ebrasha-all_extracted_configs",
@@ -2786,11 +2789,6 @@
       "disabled_reason": "no_verified_nodes"
     },
     {
-      "name": "gh-jingjiangze-node-radar-clash",
-      "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash.yaml",
-      "format": "clash_yaml"
-    },
-    {
       "name": "gh-jingjiangze-node-radar-clash-lite",
       "url": "https://raw.githubusercontent.com/jingjiangze/node-radar/main/dist/clash-lite.yaml",
       "format": "clash_yaml",
@@ -2836,7 +2834,10 @@
     },
     {
       "name": "gh-alireza786786-Free-V2ray-Configs-all-servers",
-      "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/all_servers.txt"
+      "url": "https://raw.githubusercontent.com/alireza786786/Free-V2ray-Configs/main/all_servers.txt",
+      "disabled": true,
+      "disabled_at": "2026-11-28T07:42:07Z",
+      "disabled_reason": "no_verified_nodes"
     },
     {
       "name": "gh-alireza786786-Free-V2ray-Configs-ss-servers",
